@@ -1,0 +1,6 @@
+#!/usr/bin/perl
+my $f = shift;
+chomp $f;
+die "Usage: $0 <query>" unless $f;
+my $c = 'grep -i '.  $f . " raw.xml  | sed -e 's/.*end=\"//g' | sed -e 's/\".*//'";
+system($c);

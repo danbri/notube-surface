@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    
+		<rdf:Description rdf:about="/nature/order/Primate">
+		<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+		
+			<wo:Order rdf:about="/nature/order/Primate#order">
+		
+				<rdfs:label>Primates</rdfs:label>
+				
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Primate#name"/>
+				
+		<foaf:depiction rdf:resource="http://open.live.bbc.co.uk/dynamic_images/naturelibrary_640_credits/downloads.bbc.co.uk/earth/naturelibrary/assets/p/pr/primate/primate_1.jpg"/>
+		
+				<dc:description>The Primates is an order of mammals with features characteristic of tree-living ancestors, even in those species that now live on the ground. Lemurs, lorises, bush-babies, monkeys, apes and humans are all primates. Most primates live in the tropics and subtropics.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Primate"/>
+				
+				
+						
+											
+						
+				
+								
+		
+						
+						
+						<wo:class rdf:resource="/nature/class/Mammal#class"/>
+				
+						<wo:phylum rdf:resource="/nature/phylum/Chordate#phylum"/>
+				
+						<wo:kingdom rdf:resource="/nature/kingdom/Animal#kingdom"/>
+				
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Primate#name">
+				<rdfs:label>Primates</rdfs:label>
+											<wo:scientificName>Primates</wo:scientificName>
+							<wo:kingdomName>animalia</wo:kingdomName>
+							<wo:phylumName>Chordata</wo:phylumName>
+							<wo:className>Mammalia</wo:className>
+							<wo:orderName>Primates</wo:orderName>
+									</wo:TaxonName>
+		
+		<foaf:Image rdf:about="http://open.live.bbc.co.uk/dynamic_images/naturelibrary_640_credits/downloads.bbc.co.uk/earth/naturelibrary/assets/p/pr/primate/primate_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Primate#order"/>
+		<foaf:thumbnail rdf:resource="http://open.live.bbc.co.uk/dynamic_images/naturelibrary_126/downloads.bbc.co.uk/earth/naturelibrary/assets/p/pr/primate/primate_1.jpg"/>
+	</foaf:Image>
+	
+			
+	
+			
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Primate">
+		<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Primates.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Primates/15963">
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.primate-sg.org/T25full07.htm">
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.primates.com/welcome.htm">
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8404000/8404535.stm">
+			<dc:title>Minuscule primate caught on film</dc:title>
+			<dc:description>The tiny spectral tarsier, one of the shortest and most primitive primates in the world, is caught on camera hunting at night in the jungle of Sulawesi, Indonesia.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8401000/8401487.stm">
+			<dc:title>Gibbon 'dating agency' saves apes</dc:title>
+			<dc:description>A gibbon dating agency is helping to successfully reintroduce once-captive apes into the forests of southeast Asia</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8370000/8370743.stm">
+			<dc:title>Grandmother monkeys care for baby</dc:title>
+			<dc:description>Grandmother macaques care for their abandoned grandchildren, behaviour not recorded before in non-human primates.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8271000/8271375.stm">
+			<dc:title>Safe havens for rarest primates
+</dc:title>
+			<dc:description>Two of the world's rarest primates are to be helped by the creation of new nature reserves in south-east Asia.
+</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8210000/8210355.stm">
+			<dc:title>Lemurs butchered in Madagascar </dc:title>
+			<dc:description>Shocking pictures of slaughtered lemurs killed for bush meat have been released by Conservation International.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/southernhighlandstanzania/stories/kipunji">
+			<dc:title>Kipunji: the new primate on the block</dc:title>
+			<dc:description>Felicity Egerton heads into the forests of Mount Rungwe to look for an unusual inhabitant.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7541192.stm">
+			<dc:title>Primates 'face extinction crisis'</dc:title>
+			<dc:description>A global review of the world's primates says 48% of species face extinction, an outlook described as 'depressing' by conservationists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				
+		
+				
+			
+		
+		
+									
+			
+	
+		
+				
+						
+						
+						<wo:Class rdf:about="/nature/class/Mammal#class">
+			<rdfs:label>Mammalia</rdfs:label>
+							<wo:order rdf:resource="/nature/order/Primate#order"/>
+															<wo:order rdf:resource="/nature/order/Even-toed_ungulate#order"/>
+											<wo:order rdf:resource="/nature/order/Carnivora#order"/>
+											<wo:order rdf:resource="/nature/order/Cetacea#order"/>
+											<wo:order rdf:resource="/nature/order/Bat#order"/>
+											<wo:order rdf:resource="/nature/order/Diprotodontia#order"/>
+											<wo:order rdf:resource="/nature/order/Lagomorpha#order"/>
+											<wo:order rdf:resource="/nature/order/Monotreme#order"/>
+											<wo:order rdf:resource="/nature/order/Odd-toed_ungulate#order"/>
+											<wo:order rdf:resource="/nature/order/Rodent#order"/>
+											<wo:order rdf:resource="/nature/order/Sirenia#order"/>
+											<wo:order rdf:resource="/nature/order/Dasyuromorphia#order"/>
+											<wo:order rdf:resource="/nature/order/Pilosa#order"/>
+														</wo:Class>
+				
+						<wo:Phylum rdf:about="/nature/phylum/Chordate#phylum">
+			<rdfs:label>Chordata</rdfs:label>
+					</wo:Phylum>
+				
+						<wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom">
+			<rdfs:label>animalia</rdfs:label>
+					</wo:Kingdom>
+				
+		
+			
+	
+			
+	
+											<wo:Family rdf:about="/nature/family/Pitheciidae#family">
+					<rdfs:label>Titis, sakis and uakaris</rdfs:label>
+					<wo:order rdf:resource="/nature/order/Primate#order"/>
+				</wo:Family>
+												<wo:Family rdf:about="/nature/family/Old_World_monkey#family">
+					<rdfs:label>Old world monkeys</rdfs:label>
+					<wo:order rdf:resource="/nature/order/Primate#order"/>
+				</wo:Family>
+												<wo:Genus rdf:about="/nature/genus/Mouse_lemur#genus">
+					<rdfs:label>Mouse lemurs</rdfs:label>
+					<wo:order rdf:resource="/nature/order/Primate#order"/>
+				</wo:Genus>
+												<wo:Species rdf:about="/nature/species/Aye-aye#species">
+					<rdfs:label>Aye-aye</rdfs:label>
+					<wo:order rdf:resource="/nature/order/Primate#order"/>
+				</wo:Species>
+												<wo:Family rdf:about="/nature/family/Hominidae#family">
+					<rdfs:label>Great apes and humans</rdfs:label>
+					<wo:order rdf:resource="/nature/order/Primate#order"/>
+				</wo:Family>
+												<wo:Family rdf:about="/nature/family/Gibbon#family">
+					<rdfs:label>Gibbons</rdfs:label>
+					<wo:order rdf:resource="/nature/order/Primate#order"/>
+				</wo:Family>
+												<wo:Family rdf:about="/nature/family/Indriidae#family">
+					<rdfs:label>Woolly lemurs and allies</rdfs:label>
+					<wo:order rdf:resource="/nature/order/Primate#order"/>
+				</wo:Family>
+												<wo:Species rdf:about="/nature/species/Ring-tailed_Lemur#species">
+					<rdfs:label>Ring-tailed lemur</rdfs:label>
+					<wo:order rdf:resource="/nature/order/Primate#order"/>
+				</wo:Species>
+												<wo:Species rdf:about="/nature/species/Brown_Woolly_Monkey#species">
+					<rdfs:label>Common woolly monkey</rdfs:label>
+					<wo:order rdf:resource="/nature/order/Primate#order"/>
+				</wo:Species>
+							
+			
+			
+			
+		
+		
+			
+			    
+</rdf:RDF>

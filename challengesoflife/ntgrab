@@ -1,0 +1,15 @@
+#!/usr/bin/perl
+
+# grab screenshot for hours/minutes/seconds.subseconds using 00:03:30.68 notation
+# danbri@danbri.org
+
+# my $quiet=" -n ";
+my $x = shift;
+chomp($x);
+print "Grabbing frame for time $x";
+my $fn = "~/Movies/BBC_LIFE/BBC.Life.s01e10.Primats.2009.HDTV.720p.x264.AC3.mkv";
+my $fn = "BBC.Life.s01e*";
+my $outfile = "_frame_$x.jpg";
+system ("ffmpeg $quiet -ss $x -t 00:00:00.01 -i $fn  -f mjpeg $outfile");
+print "Image: $outfile\n";
+

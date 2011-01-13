@@ -1,0 +1,131 @@
+
+bash-3.2$ grep -i primates raw.xml 
+        LIFE - PRIMATES - HBR000363
+      <p style="s1" begin="00:00:42.56" id="p2" end="00:00:44.08">Primates.</p>
+      <p style="s1" begin="00:01:17.40" id="p6" end="00:01:22.96">Intelligence among primates<br />can excel that of all other animals.</p>
+      <p style="s1" begin="00:01:29.28" id="p7" end="00:01:32.16">Primates can solve<br />difficult problems...</p>
+      <p style="s1" begin="00:01:44.80" id="p10" end="00:01:50.80">But most importantly,<br />primates remember<br />what they learn during their lives.</p>
+      <p style="s1" begin="00:03:14.92" id="p17" end="00:03:19.04">But primates have learned<br />how to make it their home.</p>
+      <p style="s1" begin="00:07:51.72" id="p37" end="00:07:56.04">In other parts of the world,<br />primates have had to organise</p>
+      <p style="s1" begin="00:11:19.00" id="p58" end="00:11:23.32">Everyone wants in,<br />but primates being primates,</p>
+      <p style="s1" begin="00:16:59.52" id="p97" end="00:17:04.04">Other smaller primates<br />are rather more secretive.</p>
+      <p style="s1" begin="00:18:29.48" id="p105" end="00:18:32.96">Tarsiers are the only totally<br />carnivorous primates on Earth.</p>
+      <p style="s1" begin="00:22:34.12" id="p129" end="00:22:40.28">Most primates have excellent<br />colour vision, and colour too<br />can be used in communication.</p>
+      <p style="s1" begin="00:24:16.28" id="p140" end="00:24:22.36">Smell is of particular<br />importance to the primates<br />that live in Madagascar -</p>
+      <p style="s1" begin="00:27:35.36" id="p159" end="00:27:39.92">But primates are capable of<br />much more complex communication.</p>
+      <p style="s1" begin="00:46:32.68" id="p260" end="00:46:37.68">Behaviour so characteristic<br />of us higher primates.</p>
+      <p style="s1" begin="00:46:45.60" id="p261" end="00:46:52.00">We are the most inventive<br />and innovative of all primates.</p>
+      <p style="s1" begin="00:54:36.12" id="p328" end="00:54:40.84">The thing about chimps<br />is that, like most primates,<br />you can't always predict</p>
+      <p begin="00:56:50.80" id="p341" end="00:56:53.32">I know that primates<br />are very social animals</p>
+bash-3.2$ grep -i Ethiopia raw.xml 
+      <p style="s1" begin="00:02:57.12" id="p15" end="00:03:00.56">The Awash region<br />of southern Ethiopia.</p>
+bash-3.2$ grep -i Hamadryas baboons" raw.xml"
+      <p style="s1" begin="00:03:30.68" id="p18" end="00:03:36.12">Hamadryas baboons are waking up from<br />a night spent high on the cliffs.</p>
+      <p style="s1" begin="00:04:40.40" id="p24" end="00:04:46.84">Despite their individual strength,<br />hamadryas baboons prefer<br />to travel as a troop.</p>
+      <p style="s1" begin="00:07:38.60" id="p36" end="00:07:43.88">but it works for hamadryas baboons<br />here on these arid plains.</p>
+bash-3.2$ grep -i "Hamadryas baboons" raw.xml
+      <p style="s1" begin="00:03:30.68" id="p18" end="00:03:36.12">Hamadryas baboons are waking up from<br />a night spent high on the cliffs.</p>
+      <p style="s1" begin="00:04:40.40" id="p24" end="00:04:46.84">Despite their individual strength,<br />hamadryas baboons prefer<br />to travel as a troop.</p>
+      <p style="s1" begin="00:07:38.60" id="p36" end="00:07:43.88">but it works for hamadryas baboons<br />here on these arid plains.</p>
+bash-3.2$ grep -i "Japanese macaque" raw.xml 
+      <p style="s1" begin="00:08:44.28" id="p42" end="00:08:46.96">The Japanese macaque.</p>
+      <p style="s1" begin="00:12:31.68" id="p66" end="00:12:35.08">Japanese macaque society<br />is very divided.</p>
+bash-3.2$ grep -i "thermal springs" raw.xml 
+bash-3.2$ grep -i "thermal" raw.xml 
+      <p style="s1" begin="00:10:49.60" id="p56" end="00:10:52.60">A thermal spa,</p>
+bash-3.2$ grep -i "springs" raw.xml 
+bash-3.2$ grep -i gorilla raw.xml 
+      <p style="s1" begin="00:13:38.92" id="p75" end="00:13:44.00">Gorillas live in stable family<br />groups with just a single leader,</p>
+      <p style="s1" begin="00:14:39.60" id="p82" end="00:14:46.84">It's mostly plant food,<br />but western gorillas also enjoy<br />a sprinkling of termites.</p>
+      <p style="s1" begin="00:16:01.56" id="p92" end="00:16:05.08">But it has borders with at<br />least eight other gorilla groups.</p>
+bash-3.2$ grep -i "spectral tarsiers" raw.xml 
+bash-3.2$ grep -i "spectral" raw.xml 
+      <p style="s1" begin="00:18:19.96" id="p104" end="00:18:22.16">The spectral tarsier.</p>
+bash-3.2$ grep -i "tarsiers" raw.xml 
+      <p style="s1" begin="00:18:29.48" id="p105" end="00:18:32.96">Tarsiers are the only totally<br />carnivorous primates on Earth.</p>
+      <p style="s1" begin="00:18:58.00" id="p109" end="00:19:01.48">tarsiers have to rotate their heads.</p>
+      <p style="s1" begin="00:19:59.28" id="p114" end="00:20:02.48">But the tarsiers must be watchful.</p>
+bash-3.2$ grep -i Thailand raw.xml 
+      <p style="s1" begin="00:21:35.08" id="p125" end="00:21:38.00">in the forests of Thailand.</p>
+bash-3.2$ grep -i "lar gibbons" raw.xml 
+      <p style="s1" begin="00:21:30.76" id="p124" end="00:21:35.08">Few communicate<br />more musically than lar gibbons</p>
+bash-3.2$ grep -i lar raw.xml 
+      <p style="s1" begin="00:00:34.24" id="p1" end="00:00:39.88">one branch of the mammals has a<br />particular fascination for us,<br />for we belong to it.</p>
+      <p style="s1" begin="00:05:01.04" id="p26" end="00:05:05.80">On this particular morning,<br />something stops them<br />in their tracks.</p>
+      <p style="s1" begin="00:09:47.00" id="p48" end="00:09:51.00">This female knows it's a good<br />place to gather insect larvae</p>
+      <p style="s1" begin="00:13:28.96" id="p74" end="00:13:32.96">Among them are the largest of all.</p>
+      <p begin="00:20:12.64" id="p116" end="00:20:16.04"><span tts:color="yellow">The male sounds the alarm.<br /></span>CHIRPING</p>
+      <p style="s1" begin="00:21:30.76" id="p124" end="00:21:35.08">Few communicate<br />more musically than lar gibbons</p>
+      <p style="s1" begin="00:24:16.28" id="p140" end="00:24:22.36">Smell is of particular<br />importance to the primates<br />that live in Madagascar -</p>
+      <p style="s1" begin="00:39:17.96" id="p224" end="00:39:22.84">Trial and error<br />may have been sufficient to solve<br />this particular problem.</p>
+      <p style="s1" begin="00:42:54.88" id="p236" end="00:42:59.44">Some of their skills are unique<br />to this particular group.</p>
+      <p style="s1" begin="00:43:37.36" id="p241" end="00:43:40.76">If chimpanzees haven't learned<br />particular skills by the age of 8,</p>
+      <p style="s1" begin="00:46:52.00" id="p262" end="00:46:57.36">Just one branch<br />of a large and extended family.</p>
+      <p style="s2" begin="00:50:40.68" id="p288" end="00:50:44.12">One particular young male<br />might throw sticks,</p>
+      <p begin="00:54:12.44" id="p322" end="00:54:17.08">Just staking out a couple of really<br />big trees that have got very large<br />buttress roots</p>
+      <p begin="00:55:44.84" id="p336" end="00:55:48.28">I felt so similar to them.</p>
+bash-3.2$ grep -i gibbons raw.xml 
+      <p style="s1" begin="00:21:30.76" id="p124" end="00:21:35.08">Few communicate<br />more musically than lar gibbons</p>
+bash-3.2$ grep -i "ring-tailed lemurs" raw.xml 
+bash-3.2$ grep -i Madagascar raw.xml 
+      <p style="s1" begin="00:24:16.28" id="p140" end="00:24:22.36">Smell is of particular<br />importance to the primates<br />that live in Madagascar -</p>
+bash-3.2$ grep -i orangutan raw.xml 
+bash-3.2$ grep i[K-i orang raw.xml 
+      <p style="s1" begin="00:23:03.36" id="p132" end="00:23:06.76">Bright orange fur makes the babies<br />very conspicuous,</p>
+      <p style="s1" begin="00:28:05.96" id="p162" end="00:28:09.60">This female orang-utan<br />is forty-two years old.</p>
+      <p style="s1" begin="00:28:20.32" id="p164" end="00:28:24.68">Orangs look after their children<br />for longer than any other primate...</p>
+      <p style="s1" begin="00:30:57.12" id="p181" end="00:31:01.52">So all orangs must learn how to<br />make a shelter early in their lives.</p>
+bash-3.2$ grep -i "South Africa" raw.xml 
+bash-3.2$ grep -i "South" raw.xml 
+      <p style="s1" begin="00:02:57.12" id="p15" end="00:03:00.56">The Awash region<br />of southern Ethiopia.</p>
+      <p style="s1" begin="00:32:36.56" id="p189" end="00:32:41.00">It's the furthest south<br />that monkeys have managed to settle.</p>
+bash-3.2$ grep -i "Africa" raw.xml 
+      <p style="s1" begin="00:32:33.36" id="p188" end="00:32:36.56">This is Africa's Cape peninsula.</p>
+      <p style="s1" begin="00:40:54.00" id="p231" end="00:41:01.80">And nowhere is it more convincingly<br />displayed than here in the forest of<br />Bossou in Guinea, West Africa.</p>
+bash-3.2$ grep -i "Cape Peninsula" raw.xml 
+      <p style="s1" begin="00:32:33.36" id="p188" end="00:32:36.56">This is Africa's Cape peninsula.</p>
+bash-3.2$ grep -i "Peninsula" raw.xml 
+      <p style="s1" begin="00:32:33.36" id="p188" end="00:32:36.56">This is Africa's Cape peninsula.</p>
+bash-3.2$ grep -i "chacma baboons" raw.xml 
+      <p style="s1" begin="00:32:57.20" id="p191" end="00:33:02.16">Chacma baboons find it difficult<br />to get the range of<br />sustenance they need,</p>
+bash-3.2$ grep -i "shark eggs" raw.xml 
+      <p style="s1" begin="00:35:15.80" id="p199" end="00:35:17.32">Shark eggs.</p>
+bash-3.2$ grep -i "mussels" raw.xml 
+      <p style="s1" begin="00:36:03.44" id="p204" end="00:36:09.16">So now they switch their attention<br />to the main course of the day...<br />mussels.</p>
+bash-3.2$ grep -i "White-faced capuchins" raw.xml 
+      <p style="s1" begin="00:37:17.68" id="p213" end="00:37:21.72">White-faced capuchins.</p>
+bash-3.2$ grep -i "clams" raw.xml 
+      <p style="s1" begin="00:37:29.28" id="p215" end="00:37:32.44">They are after clams.</p>
+      <p style="s1" begin="00:37:54.44" id="p219" end="00:37:57.76">They hammer the clams.</p>
+bash-3.2$ grep -i "Costa Rica" raw.xml 
+      <p style="s1" begin="00:37:04.92" id="p211" end="00:37:08.68">On the coast of Costa Rica,<br />among the mangroves,</p>
+bash-3.2$ grep -i Guinea raw.xml 
+      <p style="s1" begin="00:40:54.00" id="p231" end="00:41:01.80">And nowhere is it more convincingly<br />displayed than here in the forest of<br />Bossou in Guinea, West Africa.</p>
+      <p style="s1" begin="00:49:36.40" id="p275" end="00:49:43.00">Justine Evans spent almost a month<br />with them in the forest of Guinea<br />to film their use of tools.</p>
+bash-3.2$ grep -i "tool use" raw.xml 
+      <p style="s1" begin="00:53:31.08" id="p315" end="00:53:36.52">Although Justine's<br />main goal was to film tool use,</p>
+bash-3.2$ grep -i chimpanzees raw.xml 
+      <p style="s1" begin="00:41:38.04" id="p233" end="00:41:46.20">Chimpanzees in this small<br />community of thirteen individuals<br />use tools in a variety of ways.</p>
+      <p style="s1" begin="00:43:37.36" id="p241" end="00:43:40.76">If chimpanzees haven't learned<br />particular skills by the age of 8,</p>
+      <p style="s1" begin="00:44:17.44" id="p245" end="00:44:21.84">Chimpanzees have gone<br />a stage further than capuchins.</p>
+      <p style="s1" begin="00:45:33.12" id="p252" end="00:45:37.60">Chimpanzees can show great kindness</p>
+      <p style="s1" begin="00:49:30.44" id="p274" end="00:49:34.28">Chimpanzees are our closest<br />relatives.</p>
+      <p style="s1" begin="00:49:56.40" id="p279" end="00:49:59.96">Chimpanzees have to accept you.</p>
+      <p begin="00:57:13.44" id="p344" end="00:57:18.76">Just before we left,<br />the chimpanzees finally put on the<br />display that I'd been hoping for.</p>
+      <p style="s1" begin="00:57:59.24" id="p348" end="00:58:03.96">we and chimpanzees went our separate<br />ways about six million years ago,</p>
+bash-3.2$ grep -i ants raw.xml 
+      <p style="s1" begin="00:11:19.00" id="p58" end="00:11:23.32">Everyone wants in,<br />but primates being primates,</p>
+      <p style="s1" begin="00:11:42.16" id="p62" end="00:11:46.60">Only the highest-ranking females<br />and infants are allowed in.</p>
+      <p style="s1" begin="00:11:50.08" id="p63" end="00:11:56.04">Everyone obeys this male, who guards<br />the pool and vets the entrants.</p>
+      <p style="s1" begin="00:14:02.88" id="p78" end="00:14:06.08">which includes five females<br />and their infants.</p>
+      <p style="s1" begin="00:28:38.84" id="p168" end="00:28:42.96">She must learn how to collect<br />ants and termites.</p>
+      <p style="s1" begin="00:28:52.72" id="p169" end="00:28:57.44">How to identify at least 200 kinds<br />of edible plants...</p>
+      <p style="s1" begin="00:42:04.36" id="p235" end="00:42:05.88">to dip for ants.</p>
+      <p style="s2" begin="00:50:46.88" id="p290" end="00:50:50.76">and he just wants attention<br />so he'll just keep doing it.</p>
+      <p begin="00:52:46.88" id="p307" end="00:52:50.92">As I filmed them fishing for ants<br />I was amazed by their dexterity.</p>
+bash-3.2$ grep -i termites raw.xml 
+      <p style="s1" begin="00:14:39.60" id="p82" end="00:14:46.84">It's mostly plant food,<br />but western gorillas also enjoy<br />a sprinkling of termites.</p>
+      <p style="s1" begin="00:28:38.84" id="p168" end="00:28:42.96">She must learn how to collect<br />ants and termites.</p>
+bash-3.2$ exit
+
+Script done on Sat Apr  3 09:11:05 2010

@@ -1,0 +1,10 @@
+#!/usr/bin/perl
+
+my $x = shift;
+chomp($x);
+print "Caps for $x";
+
+
+system("mkdir -p $x");
+system("curl http://channelography.rattlecentral.com/programmes/$x/captions.xml > $x/$x\-captions.xml");
+system("grep iplayer $x/$x-captions.xml");

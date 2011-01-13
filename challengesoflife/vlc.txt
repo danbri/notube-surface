@@ -1,0 +1,23 @@
+http://localhost:8080/requests/status.xml?command=seek&val=21m30s
+
+      <p style="s1" begin="00:21:30.76" id="p124" end="00:21:35.08">Few communicate<br />more musically than lar gibbons</p>
+
+
+ffmpeg -ss 30 -vframes 1 -t 5 -i test.flv img_%RANDOM%_%d.jpg
+
+
+Extract a single video frame into a JPEG file:
+
+ ffmpeg -ss hh:mm:ss:cc -t 00:00:00.01 -i input-filename -f mjpeg output-name.jpeg
+For example, extract the frame at time 3 minutes and 51.04 seconds into the input video file:
+
+ ffmpeg -ss 00:03:51.04 -t 00:00:00.01 -i my-doggie.mpg -f mjpeg my-doggie-thumbnail.jpeg
+
+ffmpeg -ss 00:03:51.04 -t 00:00:00.01 -i ~/Movies/BBC_LIFE/BBC.Life.s01e10.Primats.2009.HDTV.720p.x264.AC3.mkv -f mjpeg t1.jpg
+
+
+
+grep -i japan raw.xml | awk '{ print $3 }' | sed -e "s/begin=\"//" | sed -e "s/\"//"
+
+Dan-Brickleys-MacBook-Pro:primates danbri$ grep begin raw.xml | grep -i male | awk '{ print $3 }' | sed -e "s/begin=\"//" | sed -e "s/\"//"
+

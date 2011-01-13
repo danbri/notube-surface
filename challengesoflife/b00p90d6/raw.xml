@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <!--Created on 8/12/2009 at 02:26:01 by co:1.2/su:1.9/ma:1.6/ti:1.1-->
+    <metadata>
+      <ttm:title>
+        LIFE PLANTS - HBR000352
+      </ttm:title>
+      <ttm:copyright>
+        RED BEE MEDIA 2009
+      </ttm:copyright>
+    </metadata>
+    <styling>
+      <style id="s2" style="s0" tts:color="lime" />
+      <style id="s1" style="s0" tts:color="yellow" />
+      <style id="s3" style="s0" tts:color="cyan" />
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p style="s1" begin="00:00:25.12" id="p0" end="00:00:30.72">Plants have a family tree stretching<br />back nearly half a billion years.</p>
+      <p style="s1" begin="00:00:34.28" id="p1" end="00:00:38.72">They have developed an extraordinary<br />range of strategies to survive.</p>
+      <p style="s1" begin="00:00:42.28" id="p2" end="00:00:44.44">This tree is a bristlecone pine.</p>
+      <p style="s1" begin="00:00:44.44" id="p3" end="00:00:47.88">It's taken thousands of<br />years to reach this size.</p>
+      <p style="s1" begin="00:00:49.64" id="p4" end="00:00:52.20">It has seen empires rise and fall,</p>
+      <p style="s1" begin="00:00:52.20" id="p5" end="00:00:55.32">kings, queens and presidents<br />come and go</p>
+      <p style="s1" begin="00:00:55.32" id="p6" end="00:01:00.56">and may have seen the sun rise<br />more than 1.5 million times.</p>
+      <p style="s1" begin="00:01:02.44" id="p7" end="00:01:06.72">Bristlecone pines are the<br />oldest living things on Earth.</p>
+      <p style="s1" begin="00:01:15.60" id="p8" end="00:01:19.64">Bamboo is the fastest growing plant.</p>
+      <p style="s1" begin="00:01:21.32" id="p9" end="00:01:26.92">It will be full-grown -<br />30 metres tall - in just 90 days.</p>
+      <p style="s1" begin="00:01:37.12" id="p10" end="00:01:41.88">Like animals, plants<br />are constantly competing for food.</p>
+      <p style="s1" begin="00:01:44.64" id="p11" end="00:01:46.56">Striving to produce offspring</p>
+      <p style="s1" begin="00:01:48.92" id="p12" end="00:01:51.16">and battling against predators.</p>
+      <p style="s1" begin="00:01:59.24" id="p13" end="00:02:03.64">They will deceive and,<br />in some cases,</p>
+      <p style="s1" begin="00:02:03.64" id="p14" end="00:02:06.00">they will even hunt.</p>
+      <p style="s1" begin="00:02:31.96" id="p15" end="00:02:38.40">We often don't notice such<br />dramatic behaviour because,<br />to our eyes, it happens so slowly.</p>
+      <p style="s1" begin="00:02:38.40" id="p16" end="00:02:40.20">But if time is compressed</p>
+      <p style="s1" begin="00:02:40.20" id="p17" end="00:02:44.16">and you shift perspective to<br />the plants' point of view,</p>
+      <p style="s1" begin="00:02:44.16" id="p18" end="00:02:47.24">their world comes<br />spectacularly to life.</p>
+      <p style="s1" begin="00:02:47.24" id="p19" end="00:02:49.04">The events in this woodland</p>
+      <p style="s1" begin="00:02:49.04" id="p20" end="00:02:52.60">can build to a view of half a year<br />in less than a minute.</p>
+      <p style="s1" begin="00:03:36.80" id="p21" end="00:03:40.84">Like animals,<br />plants need food and water.</p>
+      <p style="s1" begin="00:03:53.68" id="p22" end="00:03:58.36">But what sets them apart<br />is their struggle for light.</p>
+      <p style="s1" begin="00:04:09.24" id="p23" end="00:04:15.36">Plants must have light in order<br />to grow and will do anything<br />to get as much as they need.</p>
+      <p style="s1" begin="00:04:19.40" id="p24" end="00:04:25.16">The forest might appear to be the<br />perfect place for plants to thrive.</p>
+      <p style="s1" begin="00:04:25.16" id="p25" end="00:04:28.24">Yet down here on the forest floor</p>
+      <p style="s1" begin="00:04:28.24" id="p26" end="00:04:31.40">is one of the hardest<br />places imaginable</p>
+      <p style="s1" begin="00:04:31.40" id="p27" end="00:04:34.16">for a young plant<br />to begin its life.</p>
+      <p style="s1" begin="00:04:36.28" id="p28" end="00:04:38.40">The canopy above is so thick</p>
+      <p style="s1" begin="00:04:38.40" id="p29" end="00:04:41.36">that only a little sunlight<br />can filter through.</p>
+      <p style="s1" begin="00:04:46.00" id="p30" end="00:04:50.16">For this sapling, too<br />little light means death.</p>
+      <p style="s1" begin="00:05:00.68" id="p31" end="00:05:04.56">But plants on the forest<br />floor need not be passive.</p>
+      <p style="s1" begin="00:05:11.12" id="p32" end="00:05:13.92">If the light won't come to them,</p>
+      <p style="s1" begin="00:05:13.92" id="p33" end="00:05:16.88">they can go to the light.</p>
+      <p style="s1" begin="00:05:21.96" id="p34" end="00:05:24.80">But they still have a problem.</p>
+      <p style="s1" begin="00:05:24.80" id="p35" end="00:05:28.76">The light is 50 metres above them.</p>
+      <p style="s1" begin="00:05:28.76" id="p36" end="00:05:31.36">So, they must climb.</p>
+      <p style="s1" begin="00:05:40.24" id="p37" end="00:05:44.28">It's much easier to use another<br />plant as scaffolding.</p>
+      <p style="s1" begin="00:05:53.88" id="p38" end="00:05:59.36">But they won't get very high<br />unless they can hold on tight.</p>
+      <p style="s1" begin="00:06:03.48" id="p39" end="00:06:06.08">Like fingertips<br />searching for a hold,</p>
+      <p style="s1" begin="00:06:06.08" id="p40" end="00:06:09.92">this ivy's adhesive pads<br />grip the bark.</p>
+      <p style="s1" begin="00:06:12.28" id="p41" end="00:06:17.40">Instead of sticking to the trees,<br />some climbers use sharp claws.</p>
+      <p style="s1" begin="00:06:21.44" id="p42" end="00:06:26.44">The cat's claw creeper hooks its<br />tendrils into the tiniest crevices</p>
+      <p style="s1" begin="00:06:26.44" id="p43" end="00:06:28.52">and hauls itself to the top.</p>
+      <p style="s1" begin="00:06:37.08" id="p44" end="00:06:38.92">With every metre it climbs,</p>
+      <p style="s1" begin="00:06:38.92" id="p45" end="00:06:42.72">the light gets a little stronger,<br />fuelling more growth.</p>
+      <p style="s1" begin="00:06:48.00" id="p46" end="00:06:53.12">This tendril of a passion flower<br />seems to flail aimlessly in mid-air,</p>
+      <p style="s1" begin="00:06:53.12" id="p47" end="00:06:56.60">but in fact it's searching<br />for an anchor point.</p>
+      <p style="s1" begin="00:07:04.00" id="p48" end="00:07:09.04">Its tendril coils on itself, pulling<br />the plant towards its support.</p>
+      <p style="s1" begin="00:07:17.48" id="p49" end="00:07:22.28">In a matter of just days, these<br />climbers make it to the canopy.</p>
+      <p style="s1" begin="00:07:25.96" id="p50" end="00:07:30.60">Now with light in plentiful supply,<br />these plants are able to flower.</p>
+      <p style="s1" begin="00:07:36.56" id="p51" end="00:07:39.32">Other plants have<br />a different strategy</p>
+      <p style="s1" begin="00:07:39.32" id="p52" end="00:07:42.72">to find the light they need<br />in the crowded forest.</p>
+      <p style="s1" begin="00:07:44.80" id="p53" end="00:07:46.48">These are air-plants.</p>
+      <p style="s1" begin="00:07:46.48" id="p54" end="00:07:49.72">They grow on the upper branches<br />of tall trees</p>
+      <p style="s1" begin="00:07:49.72" id="p55" end="00:07:53.36">and spend their whole lives<br />basking in the light.</p>
+      <p style="s1" begin="00:07:54.92" id="p56" end="00:08:00.00">But growing 50 metres above the<br />ground does have its drawbacks.</p>
+      <p style="s1" begin="00:08:00.00" id="p57" end="00:08:05.80">Most plants get water and nutrients<br />through their roots in the ground.</p>
+      <p style="s1" begin="00:08:05.80" id="p58" end="00:08:10.32">For an air-plant, with their<br />roots planted in the tree tops,</p>
+      <p style="s1" begin="00:08:10.32" id="p59" end="00:08:11.92">this isn't an option.</p>
+      <p style="s1" begin="00:08:13.04" id="p60" end="00:08:15.00">But they have a solution.</p>
+      <p style="s1" begin="00:08:17.56" id="p61" end="00:08:23.24">First, the bare roots have an<br />extraordinary ability to soak<br />up water like blotting paper.</p>
+      <p style="s1" begin="00:08:26.12" id="p62" end="00:08:30.48">The slightest rain or mist,<br />and they absorb every drop.</p>
+      <p style="s1" begin="00:08:34.48" id="p63" end="00:08:37.48">They also have a way<br />of gathering nutrients.</p>
+      <p style="s1" begin="00:08:40.60" id="p64" end="00:08:44.32">Their roots trap falling leaves<br />which eventually rot</p>
+      <p style="s1" begin="00:08:44.32" id="p65" end="00:08:48.44">and provide the plants with their<br />own personal supply of compost.</p>
+      <p style="s1" begin="00:08:56.60" id="p66" end="00:08:58.60">20,000 different plants -</p>
+      <p style="s1" begin="00:08:58.60" id="p67" end="00:09:03.92">orchids, bromeliads and ferns have<br />taken up this remarkable lifestyle.</p>
+      <p style="s1" begin="00:09:25.88" id="p68" end="00:09:30.36">For a plant to thrive, it must<br />not only get enough nutrients,</p>
+      <p style="s1" begin="00:09:30.36" id="p69" end="00:09:33.44">but also the right balance<br />of nutrients.</p>
+      <p style="s1" begin="00:09:34.60" id="p70" end="00:09:40.04">The soil in this waterlogged<br />bog is very poor quality,<br />lacking in nitrogen.</p>
+      <p style="s1" begin="00:09:42.08" id="p71" end="00:09:45.96">But these strange plants<br />have an ingenious strategy.</p>
+      <p style="s1" begin="00:09:48.52" id="p72" end="00:09:54.64">Their leaves are covered in<br />tentacles, tipped with droplets<br />of what appears to be morning dew.</p>
+      <p style="s1" begin="00:09:57.76" id="p73" end="00:10:01.16">These droplets give the<br />plant its name - the sundew.</p>
+      <p style="s1" begin="00:10:07.84" id="p74" end="00:10:12.28">They're sweet-smelling and<br />attractive to many insects.</p>
+      <p style="s1" begin="00:10:12.28" id="p75" end="00:10:16.08">But they're also extremely sticky.</p>
+      <p style="s1" begin="00:10:20.92" id="p76" end="00:10:25.04">Mosquitoes emerge in huge<br />numbers from the boggy water</p>
+      <p style="s1" begin="00:10:25.04" id="p77" end="00:10:27.32">and the sundews are ready.</p>
+      <p style="s1" begin="00:10:59.32" id="p78" end="00:11:03.84">The sundew's tentacles are<br />living fly-paper.</p>
+      <p style="s1" begin="00:11:10.80" id="p79" end="00:11:14.12">Struggling only makes matters worse.</p>
+      <p style="s1" begin="00:11:17.04" id="p80" end="00:11:20.48">With each contact,<br />the plant tightens its grip.</p>
+      <p style="s1" begin="00:11:28.16" id="p81" end="00:11:31.16">As more and more<br />tentacles envelop the prey,</p>
+      <p style="s1" begin="00:11:31.16" id="p82" end="00:11:33.68">the droplets spread<br />across its body.</p>
+      <p style="s1" begin="00:11:37.00" id="p83" end="00:11:41.92">Eventually, the insect is smothered<br />and drowns in sticky fluid.</p>
+      <p style="s1" begin="00:11:43.96" id="p84" end="00:11:48.76">Digestive enzymes break down the<br />body into a nitrogen-rich meal</p>
+      <p style="s1" begin="00:11:48.76" id="p85" end="00:11:51.16">which is absorbed by the plant.</p>
+      <p style="s1" begin="00:11:51.16" id="p86" end="00:11:55.08">Without animal tissues<br />this plant would not survive.</p>
+      <p style="s1" begin="00:12:00.24" id="p87" end="00:12:02.92">But there's another<br />carnivorous plant</p>
+      <p style="s1" begin="00:12:02.92" id="p88" end="00:12:06.00">that's an even more<br />sophisticated predator.</p>
+      <p style="s1" begin="00:12:15.12" id="p89" end="00:12:17.80">The Venus fly trap.</p>
+      <p style="s1" begin="00:12:25.16" id="p90" end="00:12:29.12">Like the sundew,<br />it makes itself very attractive,</p>
+      <p style="s1" begin="00:12:29.12" id="p91" end="00:12:32.56">oozing nectar<br />across the brim of each leaf.</p>
+      <p style="s1" begin="00:12:45.08" id="p92" end="00:12:50.56">But any visiting insect had better<br />watch out for these six tiny hairs.</p>
+      <p style="s1" begin="00:13:02.92" id="p93" end="00:13:05.60">This fly has to tread carefully.</p>
+      <p style="s1" begin="00:13:13.00" id="p94" end="00:13:14.64">If it strikes one hair,</p>
+      <p style="s1" begin="00:13:16.28" id="p95" end="00:13:19.04">it can carry on feeding.</p>
+      <p style="s1" begin="00:13:19.04" id="p96" end="00:13:21.72">But a timer has been set.</p>
+      <p style="s1" begin="00:13:29.28" id="p97" end="00:13:34.12">A second strike in less than 20<br />seconds and the fly is doomed.</p>
+      <p style="s1" begin="00:13:42.64" id="p98" end="00:13:49.12">An electrical impulse is triggered<br />and the leaf snaps shut in<br />just a fraction of a second.</p>
+      <p style="s1" begin="00:13:50.72" id="p99" end="00:13:54.80">The tips lock together<br />like prison bars.</p>
+      <p style="s1" begin="00:14:02.36" id="p100" end="00:14:09.04">If the fly is very big, or very<br />small, it may just manage to escape.</p>
+      <p style="s1" begin="00:14:09.04" id="p101" end="00:14:11.08">But most are trapped.</p>
+      <p style="s1" begin="00:14:13.32" id="p102" end="00:14:15.04">And die.</p>
+      <p style="s1" begin="00:14:36.24" id="p103" end="00:14:39.00">Ten days later, the trap re-opens.</p>
+      <p style="s1" begin="00:14:42.36" id="p104" end="00:14:46.92">All that remains is a husk.</p>
+      <p style="s1" begin="00:14:46.92" id="p105" end="00:14:53.04">The plant has finished its meal and<br />resets itself for its next victim.</p>
+      <p style="s1" begin="00:14:56.84" id="p106" end="00:15:00.48">But there is one time of year<br />when the Venus fly trap</p>
+      <p style="s1" begin="00:15:00.48" id="p107" end="00:15:03.60">needs some of the visiting insects<br />to live.</p>
+      <p style="s1" begin="00:15:04.60" id="p108" end="00:15:08.52">It needs their help<br />to be pollinated.</p>
+      <p style="s1" begin="00:15:08.52" id="p109" end="00:15:12.32">It sends up flowers on tall stems,</p>
+      <p style="s1" begin="00:15:12.32" id="p110" end="00:15:14.80">well away from the<br />danger of the traps below.</p>
+      <p style="s1" begin="00:15:28.48" id="p111" end="00:15:32.72">Here, insects can feed safely<br />on nectar.</p>
+      <p style="s1" begin="00:15:34.24" id="p112" end="00:15:37.16">In return,<br />they provide a vital service,</p>
+      <p style="s1" begin="00:15:37.16" id="p113" end="00:15:39.96">carrying pollen<br />from flower to flower.</p>
+      <p style="s1" begin="00:15:45.16" id="p114" end="00:15:48.80">But the truce is only temporary.</p>
+      <p style="s1" begin="00:15:48.80" id="p115" end="00:15:53.36">When pollination is over,<br />it's back to business as usual.</p>
+      <p style="s1" begin="00:16:03.04" id="p116" end="00:16:06.52">80% of plant species on Earth<br />have flowers.</p>
+      <p style="s1" begin="00:16:09.00" id="p117" end="00:16:11.04">Flowers have just one role -</p>
+      <p style="s1" begin="00:16:11.04" id="p118" end="00:16:14.32">to enable the plant<br />to produce offspring.</p>
+      <p style="s1" begin="00:16:16.36" id="p119" end="00:16:20.00">Colour, perfume, nectar and shape</p>
+      <p style="s1" begin="00:16:20.00" id="p120" end="00:16:24.28">all act to make a<br />flower irresistible.</p>
+      <p style="s1" begin="00:16:24.28" id="p121" end="00:16:28.28">Sunflowers grow to<br />face the rising sun.</p>
+      <p style="s1" begin="00:16:28.28" id="p122" end="00:16:32.24">The warmth of the rays speeds<br />the production of nectar</p>
+      <p style="s1" begin="00:16:32.24" id="p123" end="00:16:34.40">and this lures pollinators.</p>
+      <p style="s1" begin="00:16:37.24" id="p124" end="00:16:38.48">One after another,</p>
+      <p style="s1" begin="00:16:38.48" id="p125" end="00:16:42.76">hundreds of individual florets<br />produce pollen-covered stamens.</p>
+      <p style="s1" begin="00:16:54.64" id="p126" end="00:16:56.32">And, like most flowers,</p>
+      <p style="s1" begin="00:16:56.32" id="p127" end="00:17:00.28">sunflowers establish a close<br />relationship with animals</p>
+      <p style="s1" begin="00:17:00.28" id="p128" end="00:17:03.08">in order to ensure<br />their reproduction.</p>
+      <p style="s1" begin="00:17:09.12" id="p129" end="00:17:11.40">As these bees busily feed on nectar,</p>
+      <p style="s1" begin="00:17:11.40" id="p130" end="00:17:15.32">they unwittingly brush against<br />the stamens, collecting pollen,</p>
+      <p style="s1" begin="00:17:15.32" id="p131" end="00:17:17.88">and then carry it<br />from flower to flower.</p>
+      <p style="s1" begin="00:17:23.24" id="p132" end="00:17:25.68">The sunflower is fertilised.</p>
+      <p style="s1" begin="00:17:31.92" id="p133" end="00:17:34.48">In the sun-drenched fields<br />of southern France,</p>
+      <p style="s1" begin="00:17:34.48" id="p134" end="00:17:37.44">the flowering season is a long one,</p>
+      <p style="s1" begin="00:17:37.44" id="p135" end="00:17:40.72">but not all plants have this luxury.</p>
+      <p style="s1" begin="00:17:43.08" id="p136" end="00:17:49.08">Cradle Mountain in Tasmania is<br />blasted by bitter Antarctic winds.</p>
+      <p style="s1" begin="00:17:52.08" id="p137" end="00:17:55.20">To reproduce, the Richea<br />honey bush must flower.</p>
+      <p style="s1" begin="00:17:57.04" id="p138" end="00:18:01.32">But the delicate parts of<br />the flowers risk being<br />damaged by the cold.</p>
+      <p style="s1" begin="00:18:03.92" id="p139" end="00:18:07.56">The plant appears to have<br />an ingenious solution.</p>
+      <p style="s1" begin="00:18:09.32" id="p140" end="00:18:11.20">The flower petals fuse together,</p>
+      <p style="s1" begin="00:18:11.20" id="p141" end="00:18:15.48">forming an insulated, protective<br />case around its stamens.</p>
+      <p style="s1" begin="00:18:15.48" id="p142" end="00:18:19.24">However,<br />this creates another problem,</p>
+      <p style="s1" begin="00:18:19.24" id="p143" end="00:18:23.44">the flower case is so well<br />sealed that, unfortunately,</p>
+      <p style="s1" begin="00:18:23.44" id="p144" end="00:18:26.48">it also keeps out<br />pollinating insects.</p>
+      <p style="s1" begin="00:18:28.44" id="p145" end="00:18:30.36">During brief, sunny spells,</p>
+      <p style="s1" begin="00:18:30.36" id="p146" end="00:18:34.04">the flowers warm up<br />and suddenly start producing nectar.</p>
+      <p style="s1" begin="00:18:37.16" id="p147" end="00:18:41.28">This attracts a bird -<br />the Black Currawong.</p>
+      <p style="s1" begin="00:18:42.92" id="p148" end="00:18:46.76">It has the strength to rip<br />open the flowers' outer casing</p>
+      <p style="s1" begin="00:18:46.76" id="p149" end="00:18:48.88">and gets its reward of nectar.</p>
+      <p style="s1" begin="00:18:48.88" id="p150" end="00:18:54.12">At the same time, it exposes the<br />delicate stamens to waiting insects.</p>
+      <p style="s1" begin="00:19:00.04" id="p151" end="00:19:03.44">With luck, there's enough time<br />for pollination</p>
+      <p style="s1" begin="00:19:03.44" id="p152" end="00:19:07.84">before the biting wind<br />kills the flowers.</p>
+      <p style="s1" begin="00:19:14.88" id="p153" end="00:19:19.16">For some plants, the relationship<br />with their pollinators</p>
+      <p style="s1" begin="00:19:19.16" id="p154" end="00:19:20.88">is not collaborative,</p>
+      <p style="s1" begin="00:19:20.88" id="p155" end="00:19:23.72">it's war.</p>
+      <p style="s1" begin="00:19:23.72" id="p156" end="00:19:26.28">Butterflies, and in such numbers,</p>
+      <p style="s1" begin="00:19:26.28" id="p157" end="00:19:30.20">would seem to be perfect<br />pollinators for any flower.</p>
+      <p style="s1" begin="00:19:31.92" id="p158" end="00:19:35.44">The Sandhill milkweed<br />blooms every spring</p>
+      <p style="s1" begin="00:19:35.44" id="p159" end="00:19:38.32">in the sandy meadows of Florida.</p>
+      <p style="s1" begin="00:19:39.36" id="p160" end="00:19:42.48">It times its flowering<br />perfectly to match the arrival</p>
+      <p style="s1" begin="00:19:42.48" id="p161" end="00:19:45.56">of Monarch butterflies<br />migrating here from Mexico.</p>
+      <p style="s1" begin="00:19:48.60" id="p162" end="00:19:51.36">The Monarchs search<br />out milkweed plants,</p>
+      <p style="s1" begin="00:19:51.36" id="p163" end="00:19:55.00">but they have something other<br />than pollination on their minds.</p>
+      <p style="s1" begin="00:19:55.00" id="p164" end="00:19:57.16">Rather than collect pollen,</p>
+      <p style="s1" begin="00:19:57.16" id="p165" end="00:20:00.80">this female lays her eggs<br />on the milkweed leaf.</p>
+      <p style="s1" begin="00:20:05.64" id="p166" end="00:20:08.96">This is the only plant<br />the caterpillars can eat.</p>
+      <p style="s1" begin="00:20:17.20" id="p167" end="00:20:20.60">But the milkweed has<br />a defence mechanism.</p>
+      <p style="s1" begin="00:20:25.72" id="p168" end="00:20:28.96">As the caterpillar<br />bites into a vein,</p>
+      <p style="s1" begin="00:20:28.96" id="p169" end="00:20:32.44">a kind of latex swells out<br />engulfing it.</p>
+      <p style="s1" begin="00:20:37.16" id="p170" end="00:20:40.48">If the caterpillar isn't quick,<br />it will drown...</p>
+      <p style="s1" begin="00:20:42.00" id="p171" end="00:20:45.36">or find its jaws glued together.</p>
+      <p style="s1" begin="00:20:48.00" id="p172" end="00:20:50.24">The plants' defence is so effective</p>
+      <p style="s1" begin="00:20:50.24" id="p173" end="00:20:53.16">that only one third of<br />the Monarch caterpillars</p>
+      <p style="s1" begin="00:20:53.16" id="p174" end="00:20:55.00">make it through the first day.</p>
+      <p style="s1" begin="00:20:57.16" id="p175" end="00:21:02.68">But the caterpillars that survive,<br />grow in size and strength.</p>
+      <p style="s1" begin="00:21:10.84" id="p176" end="00:21:14.16">And they go for the jugular.</p>
+      <p style="s1" begin="00:21:14.16" id="p177" end="00:21:17.56">By carefully chewing<br />through the main vein,</p>
+      <p style="s1" begin="00:21:17.56" id="p178" end="00:21:20.96">the caterpillar drains<br />the leaf of latex</p>
+      <p style="s1" begin="00:21:20.96" id="p179" end="00:21:22.96">and cuts off its supply.</p>
+      <p style="s1" begin="00:21:24.36" id="p180" end="00:21:27.20">The milkweed's leaf<br />is now defenceless</p>
+      <p style="s1" begin="00:21:27.20" id="p181" end="00:21:29.64">and the caterpillar eats in safety</p>
+      <p style="s1" begin="00:21:29.64" id="p182" end="00:21:32.88">before preparing to pupate<br />into a butterfly.</p>
+      <p style="s1" begin="00:21:38.72" id="p183" end="00:21:40.68">But after about ten days,</p>
+      <p style="s1" begin="00:21:40.68" id="p184" end="00:21:45.24">it becomes clear why the plant<br />has endured this onslaught.</p>
+      <p style="s1" begin="00:21:48.04" id="p185" end="00:21:52.16">A newly-hatched Monarch simply<br />can't resist the nectar-filled cups</p>
+      <p style="s1" begin="00:21:52.16" id="p186" end="00:21:53.72">of the milkweed flowers.</p>
+      <p style="s1" begin="00:21:53.72" id="p187" end="00:21:56.64">As it moves across the flower heads,</p>
+      <p style="s1" begin="00:21:56.64" id="p188" end="00:22:00.24">its feet slide between<br />grooves in the petals</p>
+      <p style="s1" begin="00:22:00.24" id="p189" end="00:22:03.96">where the flower's pollen sacs<br />are waiting.</p>
+      <p style="s1" begin="00:22:05.96" id="p190" end="00:22:09.24">As it flies off, the Monarch's<br />feet hook out the pollen</p>
+      <p style="s1" begin="00:22:09.24" id="p191" end="00:22:15.08">and carry it to the next flower<br />and pollination is achieved.</p>
+      <p style="s1" begin="00:22:15.08" id="p192" end="00:22:18.84">Although the milkweed<br />has paid a heavy price,</p>
+      <p style="s1" begin="00:22:18.84" id="p193" end="00:22:22.44">in the end it used the Monarch<br />to get its way.</p>
+      <p style="s1" begin="00:22:26.72" id="p194" end="00:22:30.84">Here in Dominica there's a<br />plant that is so manipulative</p>
+      <p style="s1" begin="00:22:30.84" id="p195" end="00:22:33.52">that it has enslaved its pollinator.</p>
+      <p style="s1" begin="00:22:34.72" id="p196" end="00:22:39.40">The bright red structures<br />of the Heliconia are<br />actually modified leaves.</p>
+      <p style="s1" begin="00:22:43.08" id="p197" end="00:22:45.76">These are its flowers.</p>
+      <p style="s1" begin="00:22:45.76" id="p198" end="00:22:48.64">They may be small,<br />but they play a very important role</p>
+      <p style="s1" begin="00:22:48.64" id="p199" end="00:22:53.64">keeping nectar well guarded at the<br />very bottom of their long stems.</p>
+      <p style="s1" begin="00:22:53.64" id="p200" end="00:22:56.72">The purple-throated<br />Carib hummingbird,</p>
+      <p style="s1" begin="00:22:56.72" id="p201" end="00:22:58.60">with its long curved beak,</p>
+      <p style="s1" begin="00:22:58.60" id="p202" end="00:23:02.96">is the only bird capable of reaching<br />this energy-rich food.</p>
+      <p style="s1" begin="00:23:04.20" id="p203" end="00:23:09.08">But, cleverly, the Heliconia rations<br />the amount of nectar it produces</p>
+      <p style="s1" begin="00:23:09.08" id="p204" end="00:23:12.80">to force the hummingbird<br />into returning to the flower</p>
+      <p style="s1" begin="00:23:12.80" id="p205" end="00:23:14.20">time and time again.</p>
+      <p style="s1" begin="00:23:19.56" id="p206" end="00:23:21.28">Every time it makes a visit,</p>
+      <p style="s1" begin="00:23:21.28" id="p207" end="00:23:24.44">it picks up more pollen<br />on its beak and feathers.</p>
+      <p style="s1" begin="00:23:30.72" id="p208" end="00:23:33.64">The hummingbird is like an addict.</p>
+      <p style="s1" begin="00:23:33.64" id="p209" end="00:23:35.32">Not only does it never stray,</p>
+      <p style="s1" begin="00:23:35.32" id="p210" end="00:23:38.80">but it will aggressively defend<br />the flowers from thieves.</p>
+      <p style="s1" begin="00:23:40.20" id="p211" end="00:23:43.96">The plant is the master<br />in this relationship.</p>
+      <p style="s1" begin="00:23:46.04" id="p212" end="00:23:47.84">To ensure it gets pollinated,</p>
+      <p style="s1" begin="00:23:47.84" id="p213" end="00:23:50.92">Heliconia has made the<br />hummingbird its prisoner.</p>
+      <p style="s1" begin="00:23:59.36" id="p214" end="00:24:02.96">A plant's problems don't end<br />once it's been pollinated.</p>
+      <p style="s1" begin="00:24:05.32" id="p215" end="00:24:08.72">Plants need to spread their seeds<br />as far away as possible,</p>
+      <p style="s1" begin="00:24:08.72" id="p216" end="00:24:13.12">otherwise the adults will<br />be in direct competition<br />with their offspring.</p>
+      <p style="s1" begin="00:24:15.84" id="p217" end="00:24:19.44">Here in South Africa,<br />one flower achieves this</p>
+      <p style="s1" begin="00:24:19.44" id="p218" end="00:24:22.12">by performing a remarkable trick.</p>
+      <p style="s1" begin="00:24:28.44" id="p219" end="00:24:33.28">The plant waits dormant underground<br />for more than a year.</p>
+      <p style="s1" begin="00:24:35.20" id="p220" end="00:24:37.48">The first heavy rains<br />for many months</p>
+      <p style="s1" begin="00:24:37.48" id="p221" end="00:24:40.28">are the trigger the plant<br />has been waiting for.</p>
+      <p style="s1" begin="00:24:55.52" id="p222" end="00:24:58.04">Brunsvigia burst into flower.</p>
+      <p style="s1" begin="00:25:06.16" id="p223" end="00:25:08.52">Their timing is perfect.</p>
+      <p style="s1" begin="00:25:08.52" id="p224" end="00:25:12.36">These conditions are<br />ideal for insects too.</p>
+      <p style="s1" begin="00:25:14.84" id="p225" end="00:25:18.72">The flowers enjoy a few<br />days of frenzied pollination.</p>
+      <p style="s1" begin="00:25:30.88" id="p226" end="00:25:34.52">But it's not long<br />before the searing heat returns.</p>
+      <p style="s1" begin="00:25:34.52" id="p227" end="00:25:38.44">The flowers start to<br />wilt, shrivel and die.</p>
+      <p style="s1" begin="00:25:44.92" id="p228" end="00:25:48.72">Brunsvigia now needs to disperse<br />its seeds widely,</p>
+      <p style="s1" begin="00:25:48.72" id="p229" end="00:25:52.80">yet the flowers still have<br />their seeds trapped inside.</p>
+      <p style="s1" begin="00:25:54.76" id="p230" end="00:25:57.00">But the flower isn't finished yet.</p>
+      <p style="s1" begin="00:26:00.20" id="p231" end="00:26:03.40">There are strong winds that<br />blow across this landscape.</p>
+      <p style="s1" begin="00:26:03.40" id="p232" end="00:26:07.56">They snap the dry, dead stalks,<br />sending each and every plant</p>
+      <p style="s1" begin="00:26:07.56" id="p233" end="00:26:11.64">cart-wheeling across the ground,<br />casting seeds as it goes.</p>
+      <p style="s1" begin="00:26:39.04" id="p234" end="00:26:41.52">With the heat<br />threatening to dry them out,</p>
+      <p style="s1" begin="00:26:41.52" id="p235" end="00:26:44.84">the seeds' germination<br />has to be immediate.</p>
+      <p style="s1" begin="00:27:05.48" id="p236" end="00:27:07.68">Deep in the forests of Borneo,</p>
+      <p style="s1" begin="00:27:07.68" id="p237" end="00:27:11.60">some plants also use the wind<br />to disperse their seeds,</p>
+      <p style="s1" begin="00:27:11.60" id="p238" end="00:27:16.40">but in a completely different way -<br />by giving their seeds wings.</p>
+      <p style="s1" begin="00:27:20.56" id="p239" end="00:27:25.00">Some are helicopters that twist and<br />turn their way down to the ground.</p>
+      <p style="s1" begin="00:27:36.88" id="p240" end="00:27:39.04">But there is one that has a design</p>
+      <p style="s1" begin="00:27:39.04" id="p241" end="00:27:43.40">that enables it to travel greater<br />distances than all the others.</p>
+      <p style="s1" begin="00:27:46.60" id="p242" end="00:27:48.84">This is Alsomitra.</p>
+      <p style="s1" begin="00:27:48.84" id="p243" end="00:27:50.84">Its football-sized pod</p>
+      <p style="s1" begin="00:27:50.84" id="p244" end="00:27:55.04">is packed full of hundreds<br />of extraordinary seeds.</p>
+      <p style="s1" begin="00:27:58.12" id="p245" end="00:28:01.16">Each is an almost aerodynamically<br />perfect glider</p>
+      <p style="s1" begin="00:28:01.16" id="p246" end="00:28:04.28">that can be supported<br />by even the slightest breeze.</p>
+      <p style="s1" begin="00:28:09.24" id="p247" end="00:28:11.08">Its paper-thin upswept wings</p>
+      <p style="s1" begin="00:28:11.08" id="p248" end="00:28:14.68">allow it to travel hundreds<br />of metres through the forest.</p>
+      <p style="s1" begin="00:28:36.64" id="p249" end="00:28:38.96">Once the seed hits the ground,</p>
+      <p style="s1" begin="00:28:38.96" id="p250" end="00:28:43.48">the wings rot away<br />and the seed starts to germinate.</p>
+      <p style="s1" begin="00:28:57.00" id="p251" end="00:29:01.52">A new Alsomitra vine starts<br />to grow up towards the canopy</p>
+      <p style="s1" begin="00:29:01.52" id="p252" end="00:29:05.24">and into the light -<br />well away from its parent.</p>
+      <p style="s1" begin="00:29:09.08" id="p253" end="00:29:11.88">There are other ways<br />to disperse seeds</p>
+      <p style="s1" begin="00:29:11.88" id="p254" end="00:29:15.00">and plants have evolved<br />different tactics</p>
+      <p style="s1" begin="00:29:15.00" id="p255" end="00:29:17.16">depending on where they live.</p>
+      <p style="s1" begin="00:29:18.76" id="p256" end="00:29:23.96">In the desert of Arizona<br />lives a master - the Saguaro cactus.</p>
+      <p style="s1" begin="00:29:27.32" id="p257" end="00:29:31.52">In the cool of the night, the<br />cacti open their radiant flowers.</p>
+      <p style="s1" begin="00:29:42.36" id="p258" end="00:29:46.04">They're soon visited<br />by nectar-feeding bats</p>
+      <p style="s1" begin="00:29:46.04" id="p259" end="00:29:49.56">and as the bats move<br />from cactus to cactus,</p>
+      <p style="s1" begin="00:29:49.56" id="p260" end="00:29:51.24">they pollinate them.</p>
+      <p style="s1" begin="00:30:10.80" id="p261" end="00:30:13.40">Each flower only lasts a night,</p>
+      <p style="s1" begin="00:30:13.40" id="p262" end="00:30:19.20">but over three weeks, each cactus<br />will produce more than 200 flowers.</p>
+      <p style="s1" begin="00:30:27.40" id="p263" end="00:30:31.56">Every pollinated flower immediately<br />begins to form a fruit at its base,</p>
+      <p style="s1" begin="00:30:31.56" id="p264" end="00:30:33.52">packed with thousands of seeds.</p>
+      <p style="s1" begin="00:30:48.60" id="p265" end="00:30:52.24">The mature Saguaro cacti<br />are superbly adapted</p>
+      <p style="s1" begin="00:30:52.24" id="p266" end="00:30:56.60">to survive out in the intense heat<br />of the Sonoran Desert.</p>
+      <p style="s1" begin="00:30:58.12" id="p267" end="00:31:04.60">But their seeds are delicate, and<br />must find shade or they will scorch<br />to death before they germinate.</p>
+      <p style="s1" begin="00:31:04.60" id="p268" end="00:31:08.12">The seeds are covered with<br />succulent sweet flesh -</p>
+      <p style="s1" begin="00:31:08.12" id="p269" end="00:31:12.36">a meal that all sorts of desert<br />creatures find irresistible.</p>
+      <p style="s1" begin="00:31:16.44" id="p270" end="00:31:21.04">White winged doves are among the<br />first to reach the ripening fruit.</p>
+      <p style="s1" begin="00:31:21.04" id="p271" end="00:31:24.08">The seeds survive<br />in the birds' stomachs</p>
+      <p style="s1" begin="00:31:24.08" id="p272" end="00:31:26.28">and will be carried many miles</p>
+      <p style="s1" begin="00:31:26.28" id="p273" end="00:31:29.56">before being deposited<br />in their droppings.</p>
+      <p style="s1" begin="00:31:29.56" id="p274" end="00:31:32.52">Their own little<br />packet of fertiliser.</p>
+      <p style="s1" begin="00:31:35.04" id="p275" end="00:31:38.08">But the cactus doesn't<br />just rely on birds.</p>
+      <p style="s1" begin="00:31:38.08" id="p276" end="00:31:42.92">Fallen fruit provides a bonanza<br />for creatures on the ground.</p>
+      <p style="s1" begin="00:31:46.44" id="p277" end="00:31:50.52">Foraging ants quickly<br />gather seeds and flesh.</p>
+      <p style="s1" begin="00:31:50.52" id="p278" end="00:31:53.76">That's if a tortoise<br />doesn't get there first.</p>
+      <p style="s1" begin="00:31:55.64" id="p279" end="00:31:59.08">The greater range of animals<br />the cactus can get<br />to eat its fruit,</p>
+      <p style="s1" begin="00:31:59.08" id="p280" end="00:32:03.44">the more likely the seeds within<br />will be carried to<br />the perfect place to germinate.</p>
+      <p style="s1" begin="00:32:04.96" id="p281" end="00:32:08.68">The ants carry the seeds<br />underground into their nests,</p>
+      <p style="s1" begin="00:32:08.68" id="p282" end="00:32:11.52">often excavated<br />among the roots of trees.</p>
+      <p style="s1" begin="00:32:15.32" id="p283" end="00:32:18.04">The tortoise too<br />will head for shade.</p>
+      <p style="s1" begin="00:32:18.04" id="p284" end="00:32:21.04">It spends much of its day<br />cooling off under trees</p>
+      <p style="s1" begin="00:32:21.04" id="p285" end="00:32:24.36">where it's sure to leave<br />undigested seeds in its dung.</p>
+      <p style="s1" begin="00:32:29.64" id="p286" end="00:32:32.76">Now the seeds wait<br />for the rains to come.</p>
+      <p begin="00:32:36.28" id="p287" end="00:32:38.32">THUNDER</p>
+      <p style="s1" begin="00:32:45.48" id="p288" end="00:32:49.56">Of the 40 million or so seeds a<br />cactus produces in its lifetime,</p>
+      <p style="s1" begin="00:32:49.56" id="p289" end="00:32:53.32">the chances are that only one<br />will develop into a plant</p>
+      <p style="s1" begin="00:32:53.32" id="p290" end="00:32:55.40">that outlives its parent.</p>
+      <p style="s1" begin="00:32:57.00" id="p291" end="00:32:59.60">If it was lucky enough<br />to find shade,</p>
+      <p style="s1" begin="00:32:59.60" id="p292" end="00:33:01.84">a seed will still take ten years</p>
+      <p style="s1" begin="00:33:01.84" id="p293" end="00:33:04.72">to become a five centimetre tall<br />cactus.</p>
+      <p style="s1" begin="00:33:07.88" id="p294" end="00:33:11.48">To reach the size of its<br />parents, possibly ten metres,</p>
+      <p style="s1" begin="00:33:11.48" id="p295" end="00:33:13.36">will take at least 100 years.</p>
+      <p style="s1" begin="00:33:18.80" id="p296" end="00:33:24.04">Plants can survive in the<br />most unlikely and inhospitable<br />places on Earth.</p>
+      <p style="s1" begin="00:33:24.04" id="p297" end="00:33:29.16">Here on Socotra, a remote<br />island in the Arabian Sea,</p>
+      <p style="s1" begin="00:33:29.16" id="p298" end="00:33:31.72">the dry season is brutal.</p>
+      <p style="s1" begin="00:33:31.72" id="p299" end="00:33:37.32">But this strange tree<br />has a strategy to survive it.</p>
+      <p style="s1" begin="00:33:41.48" id="p300" end="00:33:45.56">The Dragon's Blood tree.</p>
+      <p style="s1" begin="00:33:49.52" id="p301" end="00:33:53.80">The key to their success<br />lies in their bizarre shape.</p>
+      <p style="s1" begin="00:33:53.80" id="p302" end="00:33:57.52">They live on the mountain tops<br />where there's little soil,</p>
+      <p style="s1" begin="00:33:57.52" id="p303" end="00:34:00.08">but there are<br />critical compensations.</p>
+      <p style="s1" begin="00:34:04.20" id="p304" end="00:34:08.20">Occasional morning mists<br />sweep across the high ground.</p>
+      <p style="s1" begin="00:34:16.64" id="p305" end="00:34:21.72">The mist condenses on the<br />skyward-pointing waxy leaves.</p>
+      <p style="s1" begin="00:34:26.88" id="p306" end="00:34:32.56">The droplets run down to the centre<br />of the trunk and down to its roots.</p>
+      <p style="s1" begin="00:34:37.52" id="p307" end="00:34:42.72">Water is so precious that the tree<br />cannot afford to waste any.</p>
+      <p style="s1" begin="00:34:47.00" id="p308" end="00:34:51.96">Drops that do escape and fall to<br />the ground are not totally lost.</p>
+      <p style="s1" begin="00:34:56.16" id="p309" end="00:35:01.60">The tree's huge, densely packed<br />crown acts as a parasol.</p>
+      <p style="s1" begin="00:35:04.60" id="p310" end="00:35:10.40">It shades the ground so effectively<br />it allows time for the water<br />to seep into the sand.</p>
+      <p style="s1" begin="00:35:15.36" id="p311" end="00:35:17.92">And it also shades the<br />network of roots</p>
+      <p style="s1" begin="00:35:17.92" id="p312" end="00:35:20.12">that lie just under the surface.</p>
+      <p style="s1" begin="00:35:23.32" id="p313" end="00:35:26.16">Another plant shares<br />this parched desert,</p>
+      <p style="s1" begin="00:35:26.16" id="p314" end="00:35:28.64">but survives<br />in a very different way.</p>
+      <p style="s1" begin="00:35:31.28" id="p315" end="00:35:33.44">The Desert Rose.</p>
+      <p style="s1" begin="00:35:35.00" id="p316" end="00:35:37.28">In really harsh conditions,</p>
+      <p style="s1" begin="00:35:37.28" id="p317" end="00:35:41.64">it jettisons its leaves<br />to minimise water loss.</p>
+      <p style="s1" begin="00:35:41.64" id="p318" end="00:35:46.88">Strangely, it chooses<br />this time to flower.</p>
+      <p style="s1" begin="00:35:46.88" id="p319" end="00:35:52.08">Its bulbous trunk is like a barrel<br />that stores water all year round.</p>
+      <p style="s1" begin="00:35:56.84" id="p320" end="00:35:59.72">It's so hardy it can<br />grow out of bare rock.</p>
+      <p style="s1" begin="00:36:04.24" id="p321" end="00:36:07.52">It might seem that conditions<br />can't get much tougher</p>
+      <p style="s1" begin="00:36:07.52" id="p322" end="00:36:08.92">for a plant than here.</p>
+      <p style="s1" begin="00:36:12.60" id="p323" end="00:36:15.52">But, for some,<br />the conditions are even harsher.</p>
+      <p style="s1" begin="00:36:20.36" id="p324" end="00:36:23.72">Six hours ago,<br />here on the coast of Australia,</p>
+      <p style="s1" begin="00:36:23.72" id="p325" end="00:36:26.80">this tree was high and dry<br />on a sandy beach.</p>
+      <p style="s1" begin="00:36:27.96" id="p326" end="00:36:31.20">For almost all plants,<br />saltwater is lethal,</p>
+      <p style="s1" begin="00:36:31.20" id="p327" end="00:36:34.68">so submersion of this tree's roots<br />by the tide twice a day</p>
+      <p style="s1" begin="00:36:34.68" id="p328" end="00:36:35.80">should kill it.</p>
+      <p style="s1" begin="00:36:43.80" id="p329" end="00:36:47.32">Yet this Red Mangrove<br />is flourishing.</p>
+      <p style="s1" begin="00:36:53.16" id="p330" end="00:36:58.64">The retreating tide reveals the<br />key to surviving the sea's assault.</p>
+      <p style="s1" begin="00:37:01.80" id="p331" end="00:37:05.92">The mangrove's roots are<br />covered in warty growths.</p>
+      <p style="s1" begin="00:37:05.92" id="p332" end="00:37:10.44">The growths surround pores that<br />take in oxygen from the air</p>
+      <p style="s1" begin="00:37:10.44" id="p333" end="00:37:12.92">when the roots are above water.</p>
+      <p style="s1" begin="00:37:18.28" id="p334" end="00:37:24.52">But the pores become useful<br />in a quite different way<br />when they're submerged again.</p>
+      <p style="s1" begin="00:37:28.44" id="p335" end="00:37:31.40">They allow water into the plant,</p>
+      <p style="s1" begin="00:37:31.40" id="p336" end="00:37:36.12">but filter out 99% of the<br />salt as it passes through.</p>
+      <p style="s1" begin="00:37:39.60" id="p337" end="00:37:46.84">Any salt that gets in is pumped<br />into a few sacrificial leaves<br />that turn yellow and are discarded.</p>
+      <p style="s1" begin="00:37:54.32" id="p338" end="00:37:59.52">Plants can not only cope with being<br />poisoned, parched and scorched,</p>
+      <p style="s1" begin="00:37:59.52" id="p339" end="00:38:02.52">but they can also survive<br />being frozen.</p>
+      <p style="s1" begin="00:38:02.52" id="p340" end="00:38:05.08">In the world's northern forests,</p>
+      <p style="s1" begin="00:38:05.08" id="p341" end="00:38:09.40">the changing of the seasons<br />creates its own challenges.</p>
+      <p style="s1" begin="00:38:21.08" id="p342" end="00:38:23.76">As summer moves to autumn,</p>
+      <p style="s1" begin="00:38:23.76" id="p343" end="00:38:27.76">plants prepare themselves<br />for the toughest time of their year.</p>
+      <p style="s1" begin="00:38:31.24" id="p344" end="00:38:36.16">Broad-leaved trees unveil what<br />seems to us a colourful spectacle.</p>
+      <p style="s1" begin="00:38:36.16" id="p345" end="00:38:43.08">But for these plants it is the<br />beginning of a series of urgent<br />and drastic survival strategies</p>
+      <p style="s1" begin="00:38:43.08" id="p346" end="00:38:45.28">to cope with the coming cold.</p>
+      <p style="s1" begin="00:38:46.64" id="p347" end="00:38:52.56">They begin by pulling all the water<br />and nutrients within their leaves<br />back into the trunk.</p>
+      <p style="s1" begin="00:38:54.60" id="p348" end="00:38:58.08">The last rays of useful sunlight<br />are channelled</p>
+      <p style="s1" begin="00:38:58.08" id="p349" end="00:39:00.44">into making a sugary anti-freeze</p>
+      <p style="s1" begin="00:39:00.44" id="p350" end="00:39:03.24">that will protect<br />the body of the tree.</p>
+      <p style="s1" begin="00:39:06.40" id="p351" end="00:39:09.24">The green pigment - chlorophyll -</p>
+      <p style="s1" begin="00:39:09.24" id="p352" end="00:39:14.08">disappears, leaving purples,<br />reds, oranges and yellows.</p>
+      <p style="s1" begin="00:39:14.08" id="p353" end="00:39:18.84">Finally, the leaves die<br />and the trees discard them.</p>
+      <p style="s1" begin="00:39:27.60" id="p354" end="00:39:30.00">As temperatures drop below freezing,</p>
+      <p style="s1" begin="00:39:30.00" id="p355" end="00:39:32.96">the plants of broad-leaved forests<br />settle down</p>
+      <p style="s1" begin="00:39:32.96" id="p356" end="00:39:34.72">to hibernate until spring.</p>
+      <p style="s1" begin="00:39:48.80" id="p357" end="00:39:53.00">Pine trees can survive<br />much colder conditions.</p>
+      <p style="s1" begin="00:39:55.40" id="p358" end="00:39:58.56">They have anti-freeze<br />in the leaves themselves,</p>
+      <p style="s1" begin="00:39:58.56" id="p359" end="00:40:01.28">that means they<br />can keep them all winter.</p>
+      <p style="s1" begin="00:40:03.16" id="p360" end="00:40:06.76">The needle-like leaves also<br />have a thick waxy coating</p>
+      <p style="s1" begin="00:40:06.76" id="p361" end="00:40:09.56">that limits any water loss<br />through pores.</p>
+      <p style="s1" begin="00:40:11.68" id="p362" end="00:40:14.52">The winters here are long and hard.</p>
+      <p style="s1" begin="00:40:16.88" id="p363" end="00:40:23.64">The trees have to survive<br />temperatures of down to -40C<br />for five months.</p>
+      <p style="s1" begin="00:41:10.36" id="p364" end="00:41:16.48">But one pine tree is capable of<br />surviving even harsher conditions.</p>
+      <p style="s1" begin="00:41:20.20" id="p365" end="00:41:23.40">These pines live at<br />the limit of life -</p>
+      <p style="s1" begin="00:41:23.40" id="p366" end="00:41:28.16">above 3,000 metres in the mountains<br />of western America.</p>
+      <p style="s1" begin="00:41:29.88" id="p367" end="00:41:34.36">Almost continuous freezing<br />temperatures and savage winds</p>
+      <p style="s1" begin="00:41:34.36" id="p368" end="00:41:37.60">make life so tough<br />that these bristle cones</p>
+      <p style="s1" begin="00:41:37.60" id="p369" end="00:41:41.04">only manage to grow<br />for six weeks of the year.</p>
+      <p style="s1" begin="00:41:43.44" id="p370" end="00:41:46.92">Everything is about<br />conserving energy.</p>
+      <p style="s1" begin="00:41:46.92" id="p371" end="00:41:52.52">They hardly ever shed their needles,<br />which can last more than 30 years.</p>
+      <p style="s1" begin="00:41:52.52" id="p372" end="00:41:56.36">After centuries of being<br />blasted by storms,</p>
+      <p style="s1" begin="00:41:56.36" id="p373" end="00:41:59.08">a full-grown tree still survives</p>
+      <p style="s1" begin="00:41:59.08" id="p374" end="00:42:02.72">with only a strip of bark<br />a few inches wide.</p>
+      <p style="s1" begin="00:42:07.28" id="p375" end="00:42:12.76">These trees live life at such a slow<br />pace that they can reach great age.</p>
+      <p style="s1" begin="00:42:12.76" id="p376" end="00:42:15.52">Some are over 5,000 years old.</p>
+      <p style="s1" begin="00:42:19.08" id="p377" end="00:42:21.84">It's been said of the bristlecones,</p>
+      <p style="s1" begin="00:42:21.84" id="p378" end="00:42:25.68">that to live here is to take<br />a very long time to die.</p>
+      <p style="s1" begin="00:42:34.32" id="p379" end="00:42:36.52">As the northern spring approaches,</p>
+      <p style="s1" begin="00:42:36.52" id="p380" end="00:42:39.64">the warming temperatures<br />and increased day length</p>
+      <p style="s1" begin="00:42:39.64" id="p381" end="00:42:41.56">release the land from winter.</p>
+      <p style="s1" begin="00:42:47.20" id="p382" end="00:42:51.20">Plants that have lain dormant<br />begin to grow again.</p>
+      <p style="s1" begin="00:42:58.12" id="p383" end="00:43:00.04">These have over-wintered,</p>
+      <p style="s1" begin="00:43:00.04" id="p384" end="00:43:03.60">buried in the mud at the<br />bottom of this frozen lake.</p>
+      <p style="s1" begin="00:43:13.40" id="p385" end="00:43:16.40">The retreating ice allows<br />the water to warm</p>
+      <p style="s1" begin="00:43:16.40" id="p386" end="00:43:20.40">and this white water lily<br />to flourish for another season.</p>
+      <p style="s1" begin="00:43:36.24" id="p387" end="00:43:40.00">And, as all the trees come<br />out of their winter rest,</p>
+      <p style="s1" begin="00:43:40.00" id="p388" end="00:43:43.64">the vivid green of new leaves<br />returns to the land.</p>
+      <p style="s1" begin="00:44:05.16" id="p389" end="00:44:08.84">From the frozen north<br />to the southern deserts,</p>
+      <p style="s1" begin="00:44:08.84" id="p390" end="00:44:12.64">the spring bloom symbolises<br />the success of plants</p>
+      <p style="s1" begin="00:44:12.64" id="p391" end="00:44:15.12">in surviving against the odds.</p>
+      <p style="s1" begin="00:44:40.80" id="p392" end="00:44:44.60">But the most successful type<br />of flowering plant</p>
+      <p style="s1" begin="00:44:44.60" id="p393" end="00:44:48.88">is one that makes up 20%<br />of all plant life on the planet.</p>
+      <p style="s1" begin="00:44:51.12" id="p394" end="00:44:52.76">Grass.</p>
+      <p style="s1" begin="00:44:54.08" id="p395" end="00:44:57.40">There are 10,000 different species.</p>
+      <p style="s1" begin="00:45:02.84" id="p396" end="00:45:07.48">Today, they form the diet of many<br />thousands of different animals.</p>
+      <p style="s1" begin="00:45:12.00" id="p397" end="00:45:15.88">And a few grasses,<br />particularly rich in nutrients,</p>
+      <p style="s1" begin="00:45:15.88" id="p398" end="00:45:19.24">have developed a relationship<br />with one animal</p>
+      <p style="s1" begin="00:45:19.24" id="p399" end="00:45:22.40">and together, the two<br />have changed the world.</p>
+      <p style="s1" begin="00:45:33.64" id="p400" end="00:45:37.32">10,000 years ago,<br />we humans started to cultivate rice</p>
+      <p style="s1" begin="00:45:37.32" id="p401" end="00:45:41.64">in order to harvest<br />its food-rich seeds.</p>
+      <p style="s1" begin="00:45:47.96" id="p402" end="00:45:52.60">Now, half of the world's population<br />depends on it.</p>
+      <p style="s1" begin="00:46:01.72" id="p403" end="00:46:04.80">But there is one other grass<br />that has spread</p>
+      <p style="s1" begin="00:46:04.80" id="p404" end="00:46:07.04">even further across the planet</p>
+      <p style="s1" begin="00:46:07.04" id="p405" end="00:46:10.00">due to its relationship<br />with humans...</p>
+      <p style="s1" begin="00:46:10.00" id="p406" end="00:46:11.84">wheat.</p>
+      <p style="s1" begin="00:46:16.44" id="p407" end="00:46:20.84">It underpinned the development<br />of western civilisation.</p>
+      <p style="s1" begin="00:46:29.96" id="p408" end="00:46:35.20">Today, it covers more of the land<br />than any other kind of plant.</p>
+      <p style="s1" begin="00:46:42.60" id="p409" end="00:46:46.48">Plants have been residents<br />on land longer than animals</p>
+      <p style="s1" begin="00:46:46.48" id="p410" end="00:46:49.80">and have had nearly half a<br />billion years to evolve.</p>
+      <p style="s1" begin="00:46:53.04" id="p411" end="00:46:57.16">During that time, they've<br />diversified into countless forms</p>
+      <p style="s1" begin="00:46:57.16" id="p412" end="00:46:59.56">and have colonised every habitat.</p>
+      <p style="s1" begin="00:47:09.28" id="p413" end="00:47:12.00">As well as collaborating<br />with animals,</p>
+      <p style="s1" begin="00:47:12.00" id="p414" end="00:47:14.48">plants are sometimes their masters,</p>
+      <p style="s1" begin="00:47:14.48" id="p415" end="00:47:17.24">exploiting them<br />to their own advantage.</p>
+      <p style="s1" begin="00:47:29.24" id="p416" end="00:47:32.28">Plants capture energy from the sun</p>
+      <p style="s1" begin="00:47:32.28" id="p417" end="00:47:37.96">and all life on land, directly<br />or indirectly, depends on them.</p>
+      <p style="s1" begin="00:47:37.96" id="p418" end="00:47:43.76">So, ultimately, plants fuel<br />the diversity of life on Earth.</p>
+      <p style="s1" begin="00:47:54.20" id="p419" end="00:47:58.20">To see the behaviour of plants<br />as they struggle to survive</p>
+      <p style="s1" begin="00:47:58.20" id="p420" end="00:48:00.32">presented a unique challenge.</p>
+      <p style="s1" begin="00:48:06.28" id="p421" end="00:48:09.48">The plants team had<br />to employ many techniques,</p>
+      <p style="s1" begin="00:48:09.48" id="p422" end="00:48:13.56">including time-lapse<br />and high-speed photography.</p>
+      <p style="s1" begin="00:48:17.76" id="p423" end="00:48:20.88">They filmed in jungles,<br />deserts, swamps and plains,</p>
+      <p style="s1" begin="00:48:20.88" id="p424" end="00:48:25.28">but they also spent many hours<br />shooting in a converted barn</p>
+      <p style="s1" begin="00:48:25.28" id="p425" end="00:48:26.76">just outside Exeter.</p>
+      <p style="s1" begin="00:48:38.44" id="p426" end="00:48:40.56">All under the watchful eye</p>
+      <p style="s1" begin="00:48:40.56" id="p427" end="00:48:44.28">of green-fingered cameraman<br />Tim Shepherd.</p>
+      <p style="s1" begin="00:48:47.40" id="p428" end="00:48:50.28">Filming plants in time-lapse<br />takes so long</p>
+      <p style="s1" begin="00:48:50.28" id="p429" end="00:48:55.00">and is so susceptible to changes in<br />light levels and weather conditions</p>
+      <p style="s1" begin="00:48:55.00" id="p430" end="00:48:58.68">that some key sequences had<br />to be filmed in this studio.</p>
+      <p style="s1" begin="00:49:04.84" id="p431" end="00:49:08.32">In time-lapse, a camera<br />takes a series of pictures</p>
+      <p style="s1" begin="00:49:08.32" id="p432" end="00:49:10.52">over an extended period of time,</p>
+      <p style="s1" begin="00:49:10.52" id="p433" end="00:49:14.64">so, when played back,<br />the action appears speeded up.</p>
+      <p style="s1" begin="00:49:14.64" id="p434" end="00:49:18.48">These sunflowers actually<br />take three days to open,</p>
+      <p style="s1" begin="00:49:18.48" id="p435" end="00:49:21.68">but are seen opening<br />in a matter of seconds.</p>
+      <p style="s1" begin="00:49:27.52" id="p436" end="00:49:30.84">The most complex time-lapse<br />the team attempted</p>
+      <p style="s1" begin="00:49:30.84" id="p437" end="00:49:33.00">showed an entire growing season</p>
+      <p style="s1" begin="00:49:33.00" id="p438" end="00:49:36.20">in an English woodland<br />in one continuous shot.</p>
+      <p style="s1" begin="00:49:36.20" id="p439" end="00:49:39.16">A shot that took two years<br />to create.</p>
+      <p begin="00:49:46.08" id="p440" end="00:49:48.56">I think this is going to be the spot.</p>
+      <p style="s1" begin="00:49:50.04" id="p441" end="00:49:51.92">As the producer Neil Lucas</p>
+      <p style="s1" begin="00:49:51.92" id="p442" end="00:49:56.84">leads Tim and Mick Connaire the<br />graphic designer out to the<br />location,</p>
+      <p style="s1" begin="00:49:56.84" id="p443" end="00:49:58.48">he explains his idea.</p>
+      <p style="s2" begin="00:49:58.48" id="p444" end="00:50:02.40">Well, this is one that I thought...<br /><span tts:color="white">That's a lovely rock. </span>Just here.</p>
+      <p style="s2" begin="00:50:02.40" id="p445" end="00:50:06.16">And I think that'd be great to<br />have the brambles growing along.</p>
+      <p style="s1" begin="00:50:06.16" id="p446" end="00:50:10.04">It will be a tracking shot through<br />the wood with plants growing,</p>
+      <p style="s1" begin="00:50:10.04" id="p447" end="00:50:13.08">flowers blooming and<br />the woodland coming to life</p>
+      <p style="s1" begin="00:50:13.08" id="p448" end="00:50:15.76">over the course of a year.</p>
+      <p style="s2" begin="00:50:15.76" id="p449" end="00:50:18.72">We're condensing that one year<br />down into less than a minute.</p>
+      <p style="s2" begin="00:50:18.72" id="p450" end="00:50:22.64">We're going to have to have them<br />all coming out at the same time,<br />multiple passes.</p>
+      <p style="s3" begin="00:50:22.64" id="p451" end="00:50:25.16">How long does a foxglove<br />take to grow?</p>
+      <p begin="00:50:25.16" id="p452" end="00:50:28.40">Well, if we start just before<br />the buds are about to open</p>
+      <p begin="00:50:28.40" id="p453" end="00:50:30.24">and you've got the whole long spike,</p>
+      <p begin="00:50:30.24" id="p454" end="00:50:33.04">then top to bottom that's<br />probably about three weeks.</p>
+      <p style="s3" begin="00:50:33.04" id="p455" end="00:50:36.36">So, even if you wanted to, you<br />couldn't shoot the plants here</p>
+      <p style="s3" begin="00:50:36.36" id="p456" end="00:50:39.20">because, three weeks,<br />the weather's going to change,</p>
+      <p style="s3" begin="00:50:39.20" id="p457" end="00:50:44.68">you've got the day-night and also<br />just leaving the equipment here<br />running, it's not feasible, is it?</p>
+      <p begin="00:50:44.68" id="p458" end="00:50:48.64">You just have to imagine the changes<br />that would happen here in three weeks</p>
+      <p begin="00:50:48.64" id="p459" end="00:50:50.52">and if that was all joined together</p>
+      <p begin="00:50:50.52" id="p460" end="00:50:52.56">and one frame the plant<br />might be there</p>
+      <p begin="00:50:52.56" id="p461" end="00:50:55.88">and you take a shot of it an hour<br />later and, if the wind's blowing,</p>
+      <p begin="00:50:55.88" id="p462" end="00:50:59.68">it's over here somewhere and then<br />you join those two shots together...</p>
+      <p style="s3" begin="00:50:59.68" id="p463" end="00:51:04.60">It just won't work. So what<br />we've got to do is not only<br />have we got to produce a move</p>
+      <p style="s3" begin="00:51:04.60" id="p464" end="00:51:07.24">that is exactly the same<br />repeatable move,</p>
+      <p style="s3" begin="00:51:07.24" id="p465" end="00:51:10.56">a track that can be built<br />exactly the same again in a studio.</p>
+      <p style="s3" begin="00:51:10.56" id="p466" end="00:51:13.96">Build exact models of every object<br />in here so we can put plants</p>
+      <p style="s3" begin="00:51:13.96" id="p467" end="00:51:16.48">in the right places<br />and then time everything,</p>
+      <p style="s3" begin="00:51:16.48" id="p468" end="00:51:20.40">so they grow just as the camera<br />happens to be pointing at them.<br /><span tts:color="lime">Yes. </span>OK.</p>
+      <p style="s1" begin="00:51:20.40" id="p469" end="00:51:23.60">The scale of the<br />challenge is dawning on them.</p>
+      <p style="s1" begin="00:51:23.60" id="p470" end="00:51:25.56">Months of planning lie ahead.</p>
+      <p style="s1" begin="00:51:29.16" id="p471" end="00:51:31.92">The following spring, the<br />team head back to the wood.</p>
+      <p style="s1" begin="00:51:31.92" id="p472" end="00:51:33.68">With no road access,</p>
+      <p style="s1" begin="00:51:33.68" id="p473" end="00:51:38.32">manpower is the only way to get the<br />tonnes of equipment into position.</p>
+      <p style="s1" begin="00:51:45.28" id="p474" end="00:51:49.88">Everyone's wondering how this will<br />turn out, including the locals.</p>
+      <p begin="00:51:59.40" id="p475" end="00:52:01.72">Go up about an inch. <span tts:color="cyan">Straight now.</span></p>
+      <p begin="00:52:04.00" id="p476" end="00:52:05.04">Start like that.</p>
+      <p style="s3" begin="00:52:11.00" id="p477" end="00:52:13.48">Position now is 221556.</p>
+      <p begin="00:52:15.92" id="p478" end="00:52:18.20">We've done it wrong.</p>
+      <p begin="00:52:25.04" id="p479" end="00:52:28.04">That's pulled it.<br />Hang on - that's pulled it terribly.</p>
+      <p begin="00:52:30.76" id="p480" end="00:52:32.24">BLEEP!</p>
+      <p begin="00:52:33.40" id="p481" end="00:52:37.56"><span tts:color="cyan">Did that snap?<br /></span>No, it's pulled this wheel round.</p>
+      <p style="s1" begin="00:52:40.48" id="p482" end="00:52:43.96">Two days of building,<br />levelling, test runs</p>
+      <p style="s1" begin="00:52:43.96" id="p483" end="00:52:46.32">and even a few minor disasters</p>
+      <p style="s1" begin="00:52:46.32" id="p484" end="00:52:49.32">and finally the track<br />is ready to run.</p>
+      <p begin="00:52:49.32" id="p485" end="00:52:52.40">OK, that's pretty close.</p>
+      <p begin="00:52:52.40" id="p486" end="00:52:58.88">If you move your... Can you see that<br />little bit of lichen? Go to 8,900.</p>
+      <p style="s1" begin="00:53:00.96" id="p487" end="00:53:03.52">Accuracy is paramount.</p>
+      <p style="s3" begin="00:53:04.52" id="p488" end="00:53:06.72">Yeah, whatever we shoot<br />in the studio,</p>
+      <p style="s3" begin="00:53:06.72" id="p489" end="00:53:09.12">it's got to match this<br />landscape exactly,</p>
+      <p style="s3" begin="00:53:09.12" id="p490" end="00:53:11.80">so unless we know precisely<br />where everything is</p>
+      <p style="s3" begin="00:53:11.80" id="p491" end="00:53:13.20">relative to the camera,</p>
+      <p style="s3" begin="00:53:13.20" id="p492" end="00:53:17.12">there's no way of placing the plants<br />in the studio in the right place.</p>
+      <p style="s3" begin="00:53:17.12" id="p493" end="00:53:19.40">So we have to measure<br />the hell out of it.</p>
+      <p begin="00:53:19.40" id="p494" end="00:53:22.48">Oh, bloody hell, it's spot on.<br />Look at that.</p>
+      <p begin="00:53:22.48" id="p495" end="00:53:26.36"><span tts:color="cyan">So 250. </span>OK.</p>
+      <p style="s1" begin="00:53:33.28" id="p496" end="00:53:35.76">Shot by shot and step by step,</p>
+      <p style="s1" begin="00:53:35.76" id="p497" end="00:53:39.60">the camera inches its way<br />back up the 30 metre track.</p>
+      <p begin="00:53:39.60" id="p498" end="00:53:41.12">Well, that's working.</p>
+      <p style="s1" begin="00:53:45.04" id="p499" end="00:53:47.64">This is only the background shot.</p>
+      <p style="s1" begin="00:53:47.64" id="p500" end="00:53:50.72">There is still a huge amount<br />of other filming to be done.</p>
+      <p style="s1" begin="00:53:53.56" id="p501" end="00:53:57.40">The track has to be rebuilt<br />exactly as it is on location</p>
+      <p style="s1" begin="00:53:57.40" id="p502" end="00:54:01.20">back in the studio - a task<br />that would take weeks to get right.</p>
+      <p begin="00:54:18.72" id="p503" end="00:54:22.40">Right under the tree<br />at the end of the rock.</p>
+      <p style="s1" begin="00:54:24.96" id="p504" end="00:54:27.72">Using the detailed measurements<br />taken in the wood,</p>
+      <p style="s1" begin="00:54:27.72" id="p505" end="00:54:30.88">the position size and shape<br />of every structure</p>
+      <p style="s1" begin="00:54:30.88" id="p506" end="00:54:32.56">has to be matched precisely.</p>
+      <p style="s3" begin="00:54:36.68" id="p507" end="00:54:39.56"><span tts:color="white">35. </span>35, yeah.</p>
+      <p style="s1" begin="00:54:42.32" id="p508" end="00:54:48.28">The slightest discrepancy will<br />put the team back to square one.</p>
+      <p style="s1" begin="00:54:48.28" id="p509" end="00:54:53.88">Chicken-wire and polystyrene form<br />the rocks and trees of the woodland.</p>
+      <p style="s1" begin="00:54:53.88" id="p510" end="00:54:58.44">Blue screen is used to<br />cover every inch of the set</p>
+      <p style="s1" begin="00:54:58.44" id="p511" end="00:55:02.96">to allow the original shot to<br />be mapped on later in graphics.</p>
+      <p style="s1" begin="00:55:02.96" id="p512" end="00:55:06.72">Once built, and with the plants<br />placed in their exact locations,</p>
+      <p style="s1" begin="00:55:06.72" id="p513" end="00:55:07.84">filming can start.</p>
+      <p style="s1" begin="00:55:09.64" id="p514" end="00:55:12.64">The stars of the show<br />finally make an appearance.</p>
+      <p style="s1" begin="00:55:32.36" id="p515" end="00:55:33.72">Timing is everything.</p>
+      <p style="s1" begin="00:55:33.72" id="p516" end="00:55:36.60">With each plant taking up<br />to three weeks to flower</p>
+      <p style="s1" begin="00:55:36.60" id="p517" end="00:55:39.28">there's only one chance<br />of getting it right.</p>
+      <p style="s1" begin="00:56:03.60" id="p518" end="00:56:08.56">A year later and thankfully<br />so far all had gone to plan.</p>
+      <p style="s1" begin="00:56:15.88" id="p519" end="00:56:20.20">The final stage is to bring all<br />the pieces together seamlessly -</p>
+      <p style="s1" begin="00:56:20.20" id="p520" end="00:56:23.08">a challenging task for any<br />graphic designer.</p>
+      <p style="s3" begin="00:56:23.08" id="p521" end="00:56:27.16">We've got things overlapping<br />that wouldn't necessarily grow<br />at the same time,</p>
+      <p style="s3" begin="00:56:27.16" id="p522" end="00:56:30.80">but all the growth of each<br />individual plant is<br />absolutely accurate.</p>
+      <p style="s3" begin="00:56:30.80" id="p523" end="00:56:32.52">It's exactly what they would do.</p>
+      <p style="s3" begin="00:56:32.52" id="p524" end="00:56:35.00">We're just seeing it in a<br />shorter space of time.</p>
+      <p style="s3" begin="00:56:35.00" id="p525" end="00:56:40.12">That big rock in the foreground at<br />the end of the shot that we wanted<br />to try and get stuff climbing on,</p>
+      <p style="s3" begin="00:56:40.12" id="p526" end="00:56:42.04">that's worked really, really well.</p>
+      <p style="s3" begin="00:56:42.04" id="p527" end="00:56:43.68">This is the bramble here.</p>
+      <p style="s3" begin="00:56:43.68" id="p528" end="00:56:48.88">Had to measure it so carefully so<br />we knew exactly where these things<br />were, how round they were,</p>
+      <p style="s3" begin="00:56:48.88" id="p529" end="00:56:50.68">how deep they were from the camera.</p>
+      <p style="s3" begin="00:56:50.68" id="p530" end="00:56:52.88">Then when we take<br />the blue out of that</p>
+      <p style="s3" begin="00:56:52.88" id="p531" end="00:56:55.72">you can see that the plants<br />start to sit into the shot</p>
+      <p style="s3" begin="00:56:55.72" id="p532" end="00:56:57.64">exactly where we wanted them to be,</p>
+      <p style="s3" begin="00:56:57.64" id="p533" end="00:56:59.80">things appearing from<br />behind the tree,</p>
+      <p style="s3" begin="00:56:59.80" id="p534" end="00:57:01.48">forming on the top of the rock.</p>
+      <p style="s3" begin="00:57:01.48" id="p535" end="00:57:03.40"><span tts:color="lime">That's fantastic. </span>So here they go.</p>
+      <p style="s3" begin="00:57:03.40" id="p536" end="00:57:04.52">If I switch those off</p>
+      <p style="s3" begin="00:57:04.52" id="p537" end="00:57:07.48">you can see how just how neatly<br />they slot into the shot.</p>
+      <p style="s3" begin="00:57:07.48" id="p538" end="00:57:09.84">If we play it, you can see</p>
+      <p style="s3" begin="00:57:09.84" id="p539" end="00:57:14.20">that everything's sticking in<br />pretty well.</p>
+      <p style="s1" begin="00:57:16.64" id="p540" end="00:57:23.52">96 layers, 15 tracks and two years<br />later, the shot is finally complete.</p>
+      <p style="s1" begin="00:57:27.68" id="p541" end="00:57:31.24">A 60-second shot that proved<br />to be one of the most complex</p>
+      <p style="s1" begin="00:57:31.24" id="p542" end="00:57:34.44">ever attempted<br />in natural history film-making.</p>
+      <p style="s1" begin="00:57:51.92" id="p543" end="00:57:55.08">For your free Open University<br />Tree of Life poster,</p>
+      <p style="s1" begin="00:57:55.08" id="p544" end="00:57:58.36">call 0845 300 88 54</p>
+      <p style="s1" begin="00:57:58.36" id="p545" end="00:58:03.20">or visit bbc.co.uk/life.</p>
+      <p begin="00:58:15.04" id="p546" end="00:58:18.08">Subtitles by Red Bee Media Ltd</p>
+      <p begin="00:58:18.08" id="p547" end="00:58:21.12">E-mail subtitling@bbc.co.uk</p>
+    </div>
+  </body>
+</tt>

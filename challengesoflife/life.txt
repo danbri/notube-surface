@@ -1,0 +1,115 @@
+
+export PATH=$PATH:/Users/danbri/working/notube/challengesoflife
+
+
+seealso http://willcox.welcomebackstage.com:8015/
+
+http://en.wikipedia.org/wiki/Life_(BBC_TV_series)
+
+also
+
+http://channelography.rattlecentral.com/series/b00lbpcy.xml
+
+<channelography> 
+  <series pid="b00lbpcy"> 
+    <name>Life</name> 
+    <programmes> 
+      <programe href="http://channelography.rattlecentral.com/programmes/b00ncr13" position="1"> 
+        <name>Challenges of Life</name> 
+      </programe> 
+      <programe href="http://channelography.rattlecentral.com/programmes/b00nj6dr" position="2"> 
+        <name>Reptiles and Amphibians</name> 
+      </programe> 
+      <programe href="http://channelography.rattlecentral.com/programmes/b00nkpcc" position="3"> 
+        <name>Mammals</name> 
+      </programe> 
+      <programe href="http://channelography.rattlecentral.com/programmes/b00nqbkb" position="4"> 
+        <name>Fish</name> 
+      </programe> 
+      <programe href="http://channelography.rattlecentral.com/programmes/b00ntlyx" position="5"> 
+        <name>Birds</name> 
+      </programe> 
+      <programe href="http://channelography.rattlecentral.com/programmes/b00nxks3" position="6"> 
+        <name>Insects</name> 
+      </programe> 
+      <programe href="http://channelography.rattlecentral.com/programmes/b00p1n00" position="7"> 
+        <name>Hunters and Hunted</name> 
+      </programe> 
+      <programe href="http://channelography.rattlecentral.com/programmes/b00p4rl4" position="8"> 
+        <name>Creatures of the Deep</name> 
+      </programe> 
+      <programe href="http://channelography.rattlecentral.com/programmes/b00p90d6" position="9"> 
+        <name>Plants</name> 
+      </programe> 
+      <programe href="http://channelography.rattlecentral.com/programmes/b00pcm3h" position="10"> 
+        <name>Primates</name> 
+      </programe> 
+    </programmes> 
+  </series> 
+</channelography> 
+
+
+
+1. http://channelography.rattlecentral.com/programmes/b00ncr13
+http://channelography.rattlecentral.com/programmes/b00ncr13.xml
+
+<channelography> 
+  <programme> 
+    <name>Challenges of Life</name> 
+    <series href="http://channelography.rattlecentral.com/series/b00lbpcy"> 
+      <name>Life</name> 
+    </series> 
+    <captions> 
+      <link href="http://channelography.rattlecentral.com/programmes/b00ncr13/captions"/> 
+    </captions> 
+    <broadcasts> 
+      <broadcast start="2009-10-12T21:00:00+00:00" duration="3600" end="2009-10-12T22:00:00+00:00"> 
+        <channel href="http://channelography.rattlecentral.com/channels/bbcone/yorkshire"> 
+          <name>BBC One</name> 
+        </channel> 
+      </broadcast> 
+      <broadcast start="2009-10-17T17:30:00+00:00" duration="3600" end="2009-10-17T18:30:00+00:00"> 
+        <channel href="http://channelography.rattlecentral.com/channels/bbchd"> 
+          <name>BBC HD</name> 
+        </channel> 
+      </broadcast> 
+      <broadcast start="2009-10-17T19:30:00+00:00" duration="3600" end="2009-10-17T20:30:00+00:00"> 
+        <channel href="http://channelography.rattlecentral.com/channels/bbctwo/england"> 
+          <name>BBC Two</name> 
+        </channel> 
+      </broadcast> 
+      <broadcast start="2009-10-18T22:55:00+00:00" duration="3600" end="2009-10-18T23:55:00+00:00"> 
+        <channel href="http://channelography.rattlecentral.com/channels/bbchd"> 
+          <name>BBC HD</name> 
+        </channel> 
+      </broadcast> 
+      <broadcast start="2009-10-23T00:55:00+00:00" duration="3600" end="2009-10-23T01:55:00+00:00"> 
+        <channel href="http://channelography.rattlecentral.com/channels/bbcone/yorkshire"> 
+          <name>BBC One</name> 
+        </channel> 
+      </broadcast> 
+      <broadcast start="2010-02-06T19:00:00+00:00" duration="3600" end="2010-02-06T20:00:00+00:00"> 
+        <channel href="http://channelography.rattlecentral.com/channels/bbcfour"> 
+          <name>BBC Four</name> 
+        </channel> 
+      </broadcast> 
+    </broadcasts> 
+    <genres> 
+      <genre href="http://channelography.rattlecentral.com/genres/factual/natureandenvironment"> 
+        <name>Nature &amp;amp; Environment</name> 
+      </genre> 
+    </genres> 
+    <formats> 
+      <format href="http://channelography.rattlecentral.com/formats/documentaries"> 
+        <name>Documentaries</name> 
+      </format> 
+    </formats> 
+  </programme> 
+</channelography> 
+
+
+1b. http://channelography.rattlecentral.com/programmes/b00ncr13/captions
+http://channelography.rattlecentral.com/programmes/b00ncr13/captions.xml
+
+http://www.bbc.co.uk/iplayer/subtitles/b000ncr0mh264_high_131515215.xml
+
