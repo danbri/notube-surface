@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en">
+<head>
+<title>Drag and drop for iPhone and Android</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style>
+body {
+	background-color: #ffffff;
+}
+
+div {
+	height: 100px;
+	background-color: black;
+	width: 100px;
+	z-index: 5;
+	position: absolute;
+	top: 15px;
+	left: 15px;
+	color: white;
+	text-align: center;
+}
+
+#testElement2 {
+	top: 150px;
+	left: 150px;
+}
+
+#testElement3 {
+	top: 50px;
+	left: 100px;
+}
+</style>
+
+<script>
+
+var testEl;
+
+window.onload = function () {
+	testEl = $('testElement');
+	testEl.onmousedown = testEl.ontouchstart = startDrag;
+	testEl2 = $('testElement2');
+	testEl2.onmousedown = testEl2.ontouchstart = startDrag;
+	testEl3 = $('testElement3');
+	testEl3.onmousedown = testEl3.ontouchstart = startDrag;
+	document.ongesturechange = function () {
+		return false;
+	}
+
+}
+
+function startDrag(e) {
+
+	if (e.type === 'touchstart') {
+		this.onmousedown = null;
+		this.ontouchmove = moveDrag;
+		this.ontouchend = function () {
+			this.ontouchmove = null;
+			this.ontouchend = null;
+			this.ontouchstart = startDrag; // Dolfin
+		}
+	} else {
+		document.onmousemove = moveDrag;
+		document.onmouseup = function () {
+			document.onmousemove = null;
+			document.onmouseup = null;
+		}
+	}
+
+	var pos = [this.offsetLeft,this.offsetTop];
+	var that = this;
+	var origin = getCoors(e);
+
+	function moveDrag (e) {
+		var currentPos = getCoors(e);
+		var deltaX = currentPos[0] - origin[0];
+		var deltaY = currentPos[1] - origin[1];
+		this.style.left = (pos[0] + deltaX) + 'px';
+		this.style.top  = (pos[1] + deltaY) + 'px';
+		return false; // cancels scrolling
+
+	}
+
+	function getCoors(e) {
+		var coors = [];
+		if (e.targetTouches && e.targetTouches.length) { 	// iPhone
+			var thisTouch = e.targetTouches[0];
+			coors[0] = thisTouch.clientX;
+			coors[1] = thisTouch.clientY;
+		} else { 								// all others
+			coors[0] = e.clientX;
+			coors[1] = e.clientY;
+		}
+		return coors;
+	}
+}
+
+function $(id) {
+	return document.getElementById(id);
+}
+
+
+</script>
+</head>
+
+<body>
+
+<div id="testElement">
+Drag me
+</div>
+
+<div id="testElement2">
+Drag me
+</div>
+
+<div id="testElement3">
+Drag me
+</div>
+
+<p>This is a multiple drag and drop. Works only on multitouch browsers. You can
+control the three layers separately and simultaneously. Might be cool for multi-player
+games.</p>
+
+<p>See also the <a href="drag.html">canonical example</a>.</p>
+
+
+</body>
+</html>
